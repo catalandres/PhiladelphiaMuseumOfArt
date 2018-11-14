@@ -6,7 +6,6 @@ import string
 import threading
 import bs4
 import re
-import pandas
 import os
 
 NUM_WORKERS = 10

@@ -64,3 +64,7 @@ Once the dataset is collected, is up to the user to delete any intermediate loca
 
 * The folder `results` contains the dataset in CSV format, broken down in chunks of 10K records for manageability.
 * The folders `artists` and `works` contain the intermediate files corresponding to artists and works, respectively.
+
+### To Do
+
+* Wrap the Python files within an environment so that package dependencies get sorted out.

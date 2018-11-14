@@ -1,0 +1,794 @@
+﻿<!DOCTYPE html>
+<html>
+
+
+<head>
+<meta charset="utf-8">
+
+<meta name="author" content="Philadelphia Museum of Art" />
+<meta name="copyright" content="1997-2018" />
+<meta name="publisher" content="Philadelphia Museum of Art" />
+<meta name="Keywords" content="Philadelphia Museum of Art,Philadelphia,Museum of Art,Museum,Art,Benjamin Franklin Parkway,Ben Franklin Parkway,Parkway,PA" />
+
+<meta name="viewport" content="width=device-width, initial-scale=0.8, maximum-scale=1">
+
+<meta name="description" content="The Philadelphia Museum of Art is the cultural heart of a great city—the place for creative play, with a surprise around every corner." />
+<meta name="revisit-after" content="2 days" />
+<meta name="MSSmartTagsPreventParsing" content="TRUE" />
+<meta name="googlebot" content="noarchive" />
+<meta name="verify-v1" content="FpGPTk4WNzc1pdkxAxpDQ+PISq/cTlFz7T/FSYErdRc=" />
+<meta http-equiv="Last-Modified" content="Wed, 14 Nov 2018 00:27:00 -0500" />
+<meta http-equiv="Pragma" content="no-cache" />
+<meta http-equiv="Expires" content="-1" />
+<meta http-equiv="Cache-Control" content="no-cache" />
+
+<title>Philadelphia Museum of Art - Collections  :  Search Collections</title>
+
+
+        <link rel="stylesheet" href="/css/bootstrap.css">
+        <style>
+            body {
+                padding-top: 60px;
+                padding-bottom: 40px;
+            }
+
+
+
+
+
+        </style>
+                <link href="/font/avenir.css" rel="stylesheet" type="text/css" />
+
+<link rel="stylesheet" href="/css/main.css">
+<link rel="stylesheet" href="/css/bootstrap-responsive.css">
+<link rel="stylesheet" href="/css/jquery-ui.css">
+
+<!-- Lightbox CSS -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.0.47/jquery.fancybox.min.css" />
+<!-- <link rel="stylesheet" href="https://philamuseum.org/css/bootstrap.css" /> -->
+<style type="text/css">
+    .fancybox {
+        max-width: 706px !important;
+        max-height: 617px !important;
+    }
+    .fancybox-slide>* {
+        padding: 0;
+    }
+    #hidden-content {
+        max-width: 706px;
+        width: 100%;
+    }
+</style>
+
+<link rel="shortcut icon" href="https://www.philamuseum.org/favicon.ico?v=2" />
+
+<script src="https://secure-ds.serving-sys.com/BurstingRes/CustomScripts/mmConversionTagV6.js"></script>
+
+<style>
+/* **************** PROMO ****************** */
+
+#promoArea {
+	width:750px;
+	height: 160px;
+	background:  url('/images/interface/dotted_hor.gif') bottom repeat-x;
+	padding-bottom: 1px;	
+	overflow: hidden;
+}
+
+#promoArea object, #promoArea embed {
+	width: 750px;
+	height: 160px;
+}
+
+</style>
+<link rel="stylesheet" rev="stylesheet" href="/styles/collections.css" type="text/css" media="screen,print" charset="utf-8" />
+
+
+<link rel="stylesheet" href="/styles/mediabox.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="/styles/mediabox134b.css" type="text/css" media="screen" />
+
+
+<!-- RSS -->
+
+
+           <!-- Begin Accesso Script -->
+<script type="text/javascript" src="//pma.secure.accesso.com/embed/accesso.js" data-accesso></script>
+
+<!-- ADA Testing -->
+<script>var access_analytics={base_url:"https://analytics.ssbbartgroup.com/api/",instance_id:"AA-58dbfb1853e65"};(function(a,b,c){var d=a.createElement(b);a=a.getElementsByTagName(b)[0];d.src=c.base_url+"access.js?o="+c.instance_id+"&v=2";a.parentNode.insertBefore(d,a)})(document,"script",access_analytics);</script>
+
+<script type="text/javascript">
+<!--
+// prevents framing of content
+var domain = "www.philamuseum.org";
+if ((top.location != self.location) && (top.location.host != domain)) {
+	top.location = self.location.href;
+}
+//-->
+</script>
+
+<!-- legacy JS ---------------------------------------- -->
+<script language="javascript" type="text/javascript" src="/includes/js_includes/general.js"></script>
+<script src="/includes/js_includes/swfobject.js" type="text/javascript"  language="JavaScript1.2" charset="utf-8"></script>
+<script src="/includes/js_includes/ajax.js" type="text/javascript" language="JavaScript1.2" charset="utf-8"></script>
+
+
+<script language="javascript" type="text/javascript" src="/includes/js_includes/mootools.js"></script>
+<script language="javascript" type="text/javascript" src="/includes/js_includes/mediabox134b.js"></script>
+<script language="javascript" type="text/javascript" src="/includes/js_includes/motionSlide.js"></script>
+<script src="/includes/js_includes/thumbSlider.js" type="text/javascript" language="JavaScript1.2" charset="utf-8"></script>
+
+
+
+
+
+
+
+
+
+<!-- NEW Google -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+   ga('create', 'UA-1914086-1', 'auto' , { 'allowLinker' : true });
+  ga ('require' , 'linker');
+  ga ('linker:autoLink' , ['philamuseum.org,accesso.com']);
+
+	// Google REMARKETING
+	ga('require', 'displayfeatures');
+
+	ga('set', {'dimension1': 'Collections'});
+	ga('set', {'dimension2': 'Search Collections'});
+	ga('set', {'dimension3': 'Not Assigned'});
+	// END Google REMARKETING
+
+  ga('send', 'pageview');
+
+</script>
+<!-- END GOOGLE -->
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5N9FZSN');</script>
+<!-- End Google Tag Manager -->
+
+    </head>
+    <body>
+      <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5N9FZSN"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+     <a name="top"></a>
+           <div class="navbar navbar-inverse navbar-fixed-top center">
+      
+        <div class="container visible-desktop">
+                <a class="navbar-brand pmaTitle"  href="/"><img src="/images/pma_title_horz.png" alt="" width="190px"></a>
+                   <div class="nav-header">
+
+
+                       <div class="logobar"></div>
+      
+
+
+
+            </div>
+        </div>
+
+    <div class="container">
+        <div class="navbar-inner">
+                <div class="container">
+
+
+                <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </a>
+
+                   <div class="brand visible-tablet visible-phone"><a href="/"><img src="/images/pma_title_horz.png?2014" alt="" width="190px"></a></div>
+
+
+                    <div class="nav-collapse collapse">
+                        <ul class="nav">
+                            <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Visiting<!-- b class="caret"></b --></a><ul class="dropdown-menu"><li><a href="/visit/">Plan Your Visit</a></li><li><a href="/dining/">Dining Options</a></li><li><a href="/shopping/">Shop</a></li><li><a href="/groupvisits/">Group Visits</a></li><li><a href="/entertaining/">Entertaining</a></li><li><a href="/podcast/">Podcasts</a></li><li><a href="http://www.philamuseum.org/visit/640-551.html">Floor Plan</a></li><li><a href="/accessibility/">Accessibility</a></li></ul></li><li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">On View<!-- b class="caret"></b --></a><ul class="dropdown-menu"><li><a href="/exhibitions/current.html">Current Exhibitions</a></li><li><a href="/exhibitions/upcoming.html">Upcoming Exhibitions</a></li><li><a href="/exhibitions/past.html">Past Exhibitions</a></li><li><a href="/galleries/">In the Galleries</a></li><li><a href="/sculpturegarden/">Sculpture Garden</a></li></ul></li><li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Calendar<!-- b class="caret"></b --></a><ul class="dropdown-menu"><li><a href="/calendar">Today at the Museum</a></li><li><a href="/calendarEvents/programs.html">Family & Adult Programs</a></li><li><a href="/calendarEvents/member_events.html">Member Programs</a></li><li><a href="/wednesdaynights">Wednesday Nights</a></li><li><a href="/fridaynights">Friday Nights</a></li><li><a href="/holidays">Holidays</a></li></ul></li><li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Collections<!-- b class="caret"></b --></a><ul class="dropdown-menu"><li><a href="/collections/search.html">Search Collections</a></li><li><a href="/acquisitions/">New Acquisitions</a></li><li><a href="/explore/">Explore Collections</a></li><li><a href="http://www.philamuseum.org/collections/634-549.html">South Asian Art</a></li><li><a href="/collections/audiotours.html">Audio Tours</a></li><li><a href="http://www.philamuseum.org/collections/608-510.html">ART 24/7</a></li></ul></li><li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Research<!-- b class="caret"></b --></a><ul class="dropdown-menu"><li><a href="/conservation/">Conservation</a></li><li><a href="/publications/">Publications</a></li><li><a href="http://www.philamuseum.org/research/98-108.html">Provenance</a></li><li><a href="http://www.philamuseum.org/research/619-534.html">Costume & Textiles Study Room</a></li><li><a href="http://www.philamuseum.org/research/617-532.html">Prints, Drawings, & Photographs Study Room</a></li><li><a href="http://www.philamuseum.org/research/540-426.html">Center for American Art</a></li><li><a href="http://www.philamuseum.org/research/490-373.html">Korean Heritage Group</a></li><li><a href="/archives/">Archives</a></li><li><a href="/library/">Library</a></li></ul></li><li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">School & Teachers<!-- b class="caret"></b --></a><ul class="dropdown-menu"><li><a href="http://www.philamuseum.org/education/124-192.html">Arranging Your School Visit</a></li><li><a href="/schooltours">School Tours & Programs</a></li><li><a href="/teacherprograms">Teacher Programs</a></li><li><a href="/teacherresources">Teacher Resources</a></li><li><a href="http://www.philamuseum.org/education/273-233.html">Colleges</a></li><li><a href="http://www.philamuseum.org/education/530-416.html">Wachovia Education Resource Center</a></li><li><a href="/communityengagement">Community Engagement</a></li></ul></li><li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Join & Support<!-- b class="caret"></b --></a><ul class="dropdown-menu"><li><a href="/membership/">Membership</a></li><li><a href="http://www.philamuseum.org/?keyword=Donations">Donate Online</a></li><li><a href="http://www.philamuseum.org/giving/579-256.html">Corporate Giving</a></li><li><a href="http://www.philamuseum.org/giving/146-81.html">Target Your Gift</a></li><li><a href="http://www.philamuseum.org/giving/139-79.html">Matching Gifts</a></li><li><a href="/plannedgiving/">Planned Giving</a></li><li><a href="/annualfund">Annual Fund</a></li><li><a href="/associates">Associates & Chairman’s Council</a></li><li><a href="/friendsgroups/">Friends Groups</a></li></ul></li><li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">About Us<!-- b class="caret"></b --></a><ul class="dropdown-menu"><li><a href="http://www.philamuseum.org/information/43-323.html">Administration</a></li><li><a href="http://press.philamuseum.org">Newsroom</a></li><li><a href="/stayconnected/">Stay Connected</a></li><li><a href="/ourfuture/">Our Future</a></li><li><a href="http://www.philamuseum.org/information/45-19.html">Our Story</a></li><li><a href="/jobs/">Join Our Team</a></li><li><a href="/contacts/">Contacts</a></li></ul></li>                        </ul>
+                    </div><!--/.nav-collapse -->
+
+                </div>
+        </div>
+</div>
+
+ </div>
+       <div class="deskSpacer visible-desktop"></div>
+      
+<div class="container">
+<!-- promo -->
+<div class="promo-unit"><div class="subHome-promo-unit"><img style="position: absolute; bottom: 0px; right: 0px; width:100%; height:100%; z-index: 300;" src="/images/spacer.gif" border='0'><img src='/promo/assets/20.jpg?1542173220' border='0'><a href="/collections/permanent/70878.html"><div id="bannerInfo"><img src="/images/interface/icons/bannerInfo.png" border='0'></div></a></div></div><!-- end promo -->
+
+
+<div class="pinch">
+
+<div class="row-fluid">
+
+
+<div id="content" class="span9"><!--Body content-->
+
+<div class="row-fluid"><ul class="breadcrumb"><li>Collections</li> <span class="divider"> : </span></li> <li><a href="/collections/search.html" >Search Collections</a></li></ul></div>
+							<div style="float:right" class="back_btn"><a href="javascript:history.go(-1);"><img src="/images/interface/icons/previouspage_icon.gif" border="0" alt="Return to Previous Page"/></a></div>
+					
+<div class="tabbable">
+<ul class="nav nav-tabs">
+							
+                            <li class="active"><a href="/collections/search.html" class="tlink">Search</a></li>
+							
+							
+                
+			
+			
+				<li class=""><a href="/collections/socialTagging.html" class="tlink">Social Tagging</a></li>
+							
+		
+				
+				
+       
+	</ul>
+</div>
+<br/>
+
+
+<form method="get" action="/collections/results.html" onSubmit="return checkInput();">
+<!-- search instructions -->
+<div class="instructions">
+<p><b>146,510</b> objects from the Museum's collection of over 240,000 are available in the online collections database. This information changes weekly as objects are added, updated, and enhanced with current research.</p>
+<p> Please refer to the <a name="tips" class="openOnlyOne">search help</a> and 
+  <a name="tips" class="openOnlyOne">examples</a> 
+  
+  to best optimize your searches and learn about using search operators.</p>
+</div>
+
+<br/><p class="note plain"><strong class="alert">Sorry</strong>, but there were no matches found for your search criteria. Please try again.<br/>
+		<br/>Tip: Use the Options to browse the collections. For example, click on any letter above the Artist / Maker menu, then select an artist and click the Search button to display all objects available online for that artist.</p>
+
+
+<!-- begin keywords search table -->
+<h2 class="section-title">Search</h2>
+
+<div class="entry-wrapper" style="text-align:center">
+
+<b>Keywords:</b>
+		<input type="text" name="searchTxt" size="65" maxlength="75" class="f_field" onkeydown="disableFields(); keySelect(event);" onkeyup="getData(this, event); disableFields(); this.focus();" onblur="disableFields();" autocomplete="off"/> <input type="submit" value=" Search " name="keySearch" onClick="setPage(1);" class="f_btn"/> <input type="button" name="keyReset" value=" Reset " onClick="location='/collections/search.html'" class="f_btn"/><br/>
+		<!-- div id="suggestions" style=" z-index:2; display:none;"></div>
+		<input type="hidden" name="bSuggest" value="1"/ -->
+	
+
+			[ <a name="tips" class="openOnlyOne">Search Help</a> ] &nbsp;
+            
+           
+            <!-- div id="optionsTxt">[ <a href="javascript:toggleSuggestions();">Hints On</a> ]</div -->  &nbsp;
+           
+            
+            [ <a name="char" class="openOnlyOne">Typing Accented Characters</a> ] 
+         
+            
+            
+            
+            
+            
+            <p></p>
+    <p></p>       
+            <!-- begin search operator examples tips -->
+            <div>
+<div id='tips' style='display:none; overflow:hidden; text-align:left'>
+	<h2>Search Tips</h2>
+		<ul>
+			<li>Not getting the amount of results expected? Try using the * after your keyword to broaden your search results.<br/>
+			<li>Getting too many matches? Try using " " to limit your results to match an exact phrase.<br/>
+			<li>Refer to the examples of how to use the above mentioned operators.</li>
+		</ul>
+
+<b>Examples:</b>  
+		<ul>
+			<li>apple banana<br/>
+			Find results that contain at least one of the two words.</li> 
+			<li>apple*<br/>
+			Find results that contain words such as `apple`, `apples`, `applesauce`, or `applet`.</li> 
+			<li>"some words"<br/>
+			Find results that contain the exact phrase `some words` (for example, results that contain `some words of wisdom` but not `some wise words`).</li> 
+			<li>+apple +juice<br/>
+			Find results that contain both words.</li>
+			<li>+apple macintosh<br/>
+			Find results that contain the word `apple`, but rank results higher if they also contain `macintosh`.</li> 
+			<li>+apple -macintosh<br/>
+			Find results that contain the word `apple` but not `macintosh`.</li>
+			<li>+apple +(>turnover &lt;strudel)<br/>
+			Find rows that contain the words `apple` and `turnover`, or `apple` and `strudel` (in any order), but rank `apple turnover` higher than `apple strudel`. 
+		</ul>
+
+</div>
+<!-- end search operator examples and tips -->
+          
+<div id='char' style='display:none; overflow:hidden; text-align:left'>
+<h2>Typing Accented Characters</h2><p>         <b>Desktop PC Users</b><br/>
+To input the acute a &aacute; (0225), hold down the ALT key, type 0225 on the numeric keypad, then release the ALT key. Make sure the "Num Lock"
+key is on.
+<p></p>
+<table border="0" cellpadding="5" cellspacing="0" width="480" style="border:1px solid #000000;">
+<tr>
+<td align="center" style="border-bottom:1px solid #000000;"><b>&Agrave;</b><br/>0192</td>
+<td align="center" style="border-bottom:1px solid #000000;"><b>&Egrave;</b><br/>0200</td>
+<td align="center" style="border-bottom:1px solid #000000;"><b>&Igrave;</b><br/>0204</td>
+<td align="center" style="border-bottom:1px solid #000000;"><b>&Ograve;</b><br/>0210</td>
+<td align="center" style="border-bottom:1px solid #000000;"><b>&Ugrave;</b><br/>0217</td>
+<td align="center" style="border-bottom:1px solid #000000;">--</td>
+</tr>
+<tr>
+<td align="center" style="border-bottom:1px solid #000000;"><b>&agrave;</b><br/>0224</td>
+<td align="center" style="border-bottom:1px solid #000000;"><b>&egrave;</b><br/>0232</td>
+<td align="center" style="border-bottom:1px solid #000000;"><b>&igrave;</b><br/>0236</td>
+<td align="center" style="border-bottom:1px solid #000000;"><b>&ograve;</b><br/>0242</td>
+<td align="center" style="border-bottom:1px solid #000000;"><b>&ugrave;</b><br/>0249</td>
+<td align="center" style="border-bottom:1px solid #000000;">--</td>
+</tr>
+<tr>
+<td align="center" style="border-bottom:1px solid #000000;"><b>&Aacute;</b><br/>0193</td>
+<td align="center" style="border-bottom:1px solid #000000;"><b>&Eacute;</b><br/>0201</td>
+<td align="center" style="border-bottom:1px solid #000000;"><b>&Iacute;</b><br/>0205</td>
+<td align="center" style="border-bottom:1px solid #000000;"><b>&Oacute;</b><br/>0211</td>
+<td align="center" style="border-bottom:1px solid #000000;"><b>&Uacute;</b><br/>0218</td>
+<td align="center" style="border-bottom:1px solid #000000;"><b>&Yacute;</b><br/>0221</td>
+</tr>
+<tr>
+<td align="center" style="border-bottom:1px solid #000000;"><b>&aacute;</b><br/>0225</td>
+<td align="center" style="border-bottom:1px solid #000000;"><b>&eacute;</b><br/>0233</td>
+<td align="center" style="border-bottom:1px solid #000000;"><b>&iacute;</b><br/>0237</td>
+<td align="center" style="border-bottom:1px solid #000000;"><b>&oacute;</b><br/>0243</td>
+<td align="center" style="border-bottom:1px solid #000000;"><b>&uacute;</b><br/>0250</td>
+<td align="center" style="border-bottom:1px solid #000000;"><b>&yacute;</b><br/>0253</td>
+</tr>
+<tr>
+<td align="center" style="border-bottom:1px solid #000000;"><b>&Acirc;</b><br/>0194</td>
+<td align="center" style="border-bottom:1px solid #000000;"><b>&Ecirc;</b><br/>0202</td>
+<td align="center" style="border-bottom:1px solid #000000;"><b>&Icirc;</b><br/>0206</td>
+<td align="center" style="border-bottom:1px solid #000000;"><b>&Ocirc;</b><br/>0212</td>
+<td align="center" style="border-bottom:1px solid #000000;"><b>&Ucirc;</b><br/>0219</td>
+<td align="center" style="border-bottom:1px solid #000000;">--</td>
+</tr>
+<tr>
+<td align="center" style="border-bottom:1px solid #000000;"><b>&acirc;</b><br/>0226</td>
+<td align="center" style="border-bottom:1px solid #000000;"><b>&ecirc;</b><br/>0234</td>
+<td align="center" style="border-bottom:1px solid #000000;"><b>&icirc;</b><br/>0238</td>
+<td align="center" style="border-bottom:1px solid #000000;"><b>&ocirc;</b><br/>0244</td>
+<td align="center" style="border-bottom:1px solid #000000;"><b>&ucirc;</b><br/>0251</td>
+<td align="center" style="border-bottom:1px solid #000000;">--</td>
+</tr>
+<tr>
+<td align="center" style="border-bottom:1px solid #000000;"><b>&Atilde;</b><br/>0195</td>
+<td align="center" style="border-bottom:1px solid #000000;">--</td>
+<td align="center" style="border-bottom:1px solid #000000;"><b>&Ntilde;</b><br/>0209</td>
+<td align="center" style="border-bottom:1px solid #000000;"><b>&Otilde;</b><br/>0213</td>
+<td align="center" style="border-bottom:1px solid #000000;">--</td>
+<td align="center" style="border-bottom:1px solid #000000;">--</td>
+</tr>
+<tr>
+<td align="center" style="border-bottom:1px solid #000000;"><b>&atilde;</b><br/>0227</td>
+<td align="center" style="border-bottom:1px solid #000000;">--</td>
+<td align="center" style="border-bottom:1px solid #000000;"><b>&ntilde;</b><br/>0241</td>
+<td align="center" style="border-bottom:1px solid #000000;"><b>&otilde;</b><br/>0245</td>
+<td align="center" style="border-bottom:1px solid #000000;">--</td>
+<td align="center" style="border-bottom:1px solid #000000;">--</td>
+</tr>
+<tr>
+<td align="center" style="border-bottom:1px solid #000000;"><b>&Auml;</b><br/>0196</td>
+<td align="center" style="border-bottom:1px solid #000000;"><b>&Euml;</b><br/>0203</td>
+<td align="center" style="border-bottom:1px solid #000000;"><b>&Iuml;</b><br/>0207</td>
+<td align="center" style="border-bottom:1px solid #000000;"><b>&Ouml;</b><br/>0214</td>
+<td align="center" style="border-bottom:1px solid #000000;"><b>&Uuml;</b><br/>0220</td>
+<td align="center" style="border-bottom:1px solid #000000;"><b>&Yuml;</b><br/>0159</td>
+</tr>
+<tr>
+<td align="center"><b>&auml;</b><br/>0228</td>
+<td align="center"><b>&euml;</b><br/>0235</td>
+<td align="center"><b>&iuml;</b><br/>0239</td>
+<td align="center"><b>&ouml;</b><br/>0246</td>
+<td align="center"><b>&uuml;</b><br/>0252</td>
+<td align="center"><b>&yuml;</b><br/>0255</td>
+</tr>
+</table>
+	
+<br/><br/>
+<b>Mac Users</b><br/>
+Hold down the "Option" key with one of the punctuation or letter keys, then release. Next, type the letter you need as you normally do. 
+<br/><br/>
+
+<table border="0" cellpadding="5" cellspacing="0" width="480" style="border:1px solid #000000;">
+<tr>
+<td align="center" style="border-bottom:1px solid #000000;"><b>Characters</b></td>
+<td align="center" style="border-bottom:1px solid #000000;"><b>Key Combinations</b></td>	 
+</tr>
+<tr>
+<td align="center" style="border-bottom:1px solid #000000;">&aacute;, &eacute;, &iacute;, &oacute;, &uacute;</td>
+<td align="center" style="border-bottom:1px solid #000000;">Option + e then the vowel</td>	 
+</tr>
+<tr>
+<td align="center" style="border-bottom:1px solid #000000;">&agrave;, &egrave;, &igrave;, &ograve;, &ugrave;</td>
+<td align="center" style="border-bottom:1px solid #000000;">Option + ` then the vowel</td>	 
+</tr>
+<tr>
+<td align="center" style="border-bottom:1px solid #000000;">&acirc;, &ecirc;, &icirc;, &ocirc;, &ucirc;</td>
+<td align="center" style="border-bottom:1px solid #000000;">Option + i then the vowel</td>	 
+</tr>
+<tr>
+<td align="center" style="border-bottom:1px solid #000000;">&auml;, &euml;, &iuml;, &ouml;, &uuml;</td>
+<td align="center" style="border-bottom:1px solid #000000;">Option + u then the vowel</td>	 
+</tr>
+<tr>
+<td align="center">&atilde;, &ntilde;, &otilde;</td>
+<td align="center">Option + n then the vowel</td>	 
+</tr>
+</table>	
+	</div>
+    </div>
+    
+    	
+
+
+
+
+<!-- end keywords search table -->
+
+
+
+
+<div  style="text-align:left">
+
+  <div id="options">
+			<!-- options instructions -->
+			<p><br/></p>
+			</div>
+            <div id="artistMaker"> 
+        <b>Artist / Maker beginning with:</b> <small>&nbsp;</small><span style="color:#666666;">A</span><small>&nbsp;</small><small>&nbsp;</small><a href="javascript:getLetterData('B');">B</a><small>&nbsp;</small><small>&nbsp;</small><a href="javascript:getLetterData('C');">C</a><small>&nbsp;</small><small>&nbsp;</small><a href="javascript:getLetterData('D');">D</a><small>&nbsp;</small><small>&nbsp;</small><a href="javascript:getLetterData('E');">E</a><small>&nbsp;</small><small>&nbsp;</small><a href="javascript:getLetterData('F');">F</a><small>&nbsp;</small><small>&nbsp;</small><a href="javascript:getLetterData('G');">G</a><small>&nbsp;</small><small>&nbsp;</small><a href="javascript:getLetterData('H');">H</a><small>&nbsp;</small><small>&nbsp;</small><a href="javascript:getLetterData('I');">I</a><small>&nbsp;</small><small>&nbsp;</small><a href="javascript:getLetterData('J');">J</a><small>&nbsp;</small><small>&nbsp;</small><a href="javascript:getLetterData('K');">K</a><small>&nbsp;</small><small>&nbsp;</small><a href="javascript:getLetterData('L');">L</a><small>&nbsp;</small><small>&nbsp;</small><a href="javascript:getLetterData('M');">M</a><small>&nbsp;</small><small>&nbsp;</small><a href="javascript:getLetterData('N');">N</a><small>&nbsp;</small><small>&nbsp;</small><a href="javascript:getLetterData('O');">O</a><small>&nbsp;</small><small>&nbsp;</small><a href="javascript:getLetterData('P');">P</a><small>&nbsp;</small><small>&nbsp;</small><a href="javascript:getLetterData('Q');">Q</a><small>&nbsp;</small><small>&nbsp;</small><a href="javascript:getLetterData('R');">R</a><small>&nbsp;</small><small>&nbsp;</small><a href="javascript:getLetterData('S');">S</a><small>&nbsp;</small><small>&nbsp;</small><a href="javascript:getLetterData('T');">T</a><small>&nbsp;</small><small>&nbsp;</small><a href="javascript:getLetterData('U');">U</a><small>&nbsp;</small><small>&nbsp;</small><a href="javascript:getLetterData('V');">V</a><small>&nbsp;</small><small>&nbsp;</small><a href="javascript:getLetterData('W');">W</a><small>&nbsp;</small><small>&nbsp;</small><a href="javascript:getLetterData('X');">X</a><small>&nbsp;</small><small>&nbsp;</small><a href="javascript:getLetterData('Y');">Y</a><small>&nbsp;</small><small>&nbsp;</small><a href="javascript:getLetterData('Z');">Z</a><small>&nbsp;</small><p></p><b>Artist / Maker:</b> <select name="searchNameID" class="f_field" with="100px;"><option value=""> -- Choose Artist / Maker beginning with A -- </option><option value="53644">À la première palmette Workshop, Paris</option><option value="18976">A. & H. Lejambre, Philadelphia</option><option value="60422">A. & W. Blumer, Allentown, Pennsylvania</option><option value="37968">A. C. E.</option><option value="28927">A. Hechler, Rouen, France</option><option value="55072">A. J.</option><option value="47504">A. J. & E. Faron, Wilmington</option><option value="58117">A. Lancel</option><option value="37196">A. Morhange & Cie, Paris</option><option value="43397">A. Orosdi, Paris</option><option value="55465">A. Quesnal of Darnétal</option><option value="61786">A.R. Cole Pottery, Sanford, North Carolina</option><option value="29571">A.S.W., American</option><option value="14636">Aalto Alvar</option><option value="18022">Aamodt Niels Evertsen</option><option value="59724">Aaron Hatfield & Sons, England (active Sheffield)</option><option value="33029">Abacco Antonio dall'</option><option value="42684">Abadie-Laudel Pierre</option><option value="50310">Abaquesne Masséot</option><option value="375">Abbema Wilhelm von</option><option value="13745">Abbey Edwin Austin</option><option value="28962">Abbott Berenice</option><option value="30707">Abbott C. Yarnall</option><option value="13777">Abbott Elenore Plaisted</option><option value="30371">Abbott Hannah</option><option value="52442">Abbott James B.</option><option value="16309">Abd Al-karim</option><option value="36990">Abdy William II</option><option value="58713">Abe Kiraku Motoshi</option><option value="3">Abel Joseph</option><option value="45120">Abel Louise</option><option value="17825">Abel Myer</option><option value="60732">Abel-Truchet Louis</option><option value="17645">Abeles Sigmund Morton</option><option value="17324">Abelman Ida</option><option value="12480">Abercrombie & Fitch Company, New York</option><option value="17274">Abercrombie Gertrude</option><option value="47463">Abercrombie Kate</option><option value="36991">Abercromby Robert</option><option value="267">Aberli Johann Ludwig</option><option value="15458">Abidine (Abidine Dino)</option><option value="55919">Abington Leonard James</option><option value="1475">Abraham Tancrède</option><option value="17325">Abramovitz Albert</option><option value="36851">Abramovitz Gerald</option><option value="55320">Abrams Nellie Mae</option><option value="17646">Abrams Ross</option><option value="47981">Abrams Susan</option><option value="8378">Abri Louis</option><option value="46645">Abroms Harriet T.</option><option value="1476">Achard Jean Alexis</option><option value="400">Achenbach Andreas</option><option value="16456">Achenbach Oswald</option><option value="17625">Achepohl Keith</option><option value="451">Ackerman Georg Friedrich</option><option value="8558">Acqua Cesare dell'</option><option value="56963">Acqua Fresca Pietro Cecchi</option><option value="33381">Acquaroni Giovanni</option><option value="52728">Adachi Ginkō</option><option value="36992">Adam Charles</option><option value="58122">Adam Geo. F.</option><option value="470">Adam Georg</option><option value="171">Adam Jakob</option><option value="12630">Adam Robert</option><option value="1495">Adam Victor</option><option value="28965">Adam-Salomon Antoine-Samuel</option><option value="58050">Adams & Shaw, New York and Newark</option><option value="40975">Adams and Company, Pittsburgh</option><option value="16618">Adams Ansel</option><option value="17633">Adams Kenneth Miller</option><option value="63523">Adams Marta</option><option value="12929">Adams Phoebe</option><option value="16990">Adams Robert</option><option value="45053">Adams Stephen I</option><option value="31030">Adamson Prescott</option><option value="1418">Adan Louis Emile</option><option value="34984">Adcock George Henry</option><option value="18218">Addams Clifford</option><option value="61623">Addis Kory L.</option><option value="58237">Addis Noah</option><option value="51536">Adéagbo Georges</option><option value="33741">Adèle</option><option value="31554">Adelman Robert</option><option value="12575">Ademollo Luigi</option><option value="43519">Adidas</option><option value="60594">ADJ MSC</option><option value="61658">Adjaye David</option><option value="58228">Adjusto Tie, New York</option><option value="10737">Adlard Henry</option><option value="60649">Adler Jules</option><option value="48719">Adler Robert</option><option value="13124">Adolfo</option><option value="18173">Adomeit George</option><option value="14707">Adriaenssen Alexander</option><option value="13343">Adrian</option><option value="16580">Adriano de Giovanni de’ Maestri, known as Adriano Fiorentino</option><option value="13634">Adso 'Treasures of Paris'</option><option value="37706">Adventi Diomede</option><option value="58494">Aerts Nicasius</option><option value="7581">Aertsen Pieter</option><option value="34244">aestheticterrorists®</option><option value="43462">Aetna Glass and Manufacturing Company, Bellaire, Ohio</option><option value="60260">af Schultén Ben</option><option value="16660">Affleck Thomas</option><option value="69">Afinger Bernhard</option><option value="10736">Agar John Samuel</option><option value="56990">Agee Ann</option><option value="29367">Agence Rol, Paris</option><option value="28966">Agence Trampus, Paris</option><option value="10717">Aglio Agostino</option><option value="36832">Agnew & English, Philadelphia</option><option value="54158">Agostini Peter</option><option value="17">Agricola Carl Joseph Alois</option><option value="53">Agricola Christoph Ludwig</option><option value="58947">Aguilar Héctor</option><option value="16704">Aguirre Ignacio</option><option value="20568">Ahearn Michael</option><option value="52756">Ahlgren Steven</option><option value="61500">Ahlström Stig</option><option value="15762">Ahrens Ellen Wetherald</option><option value="56288">Ahuja Mequitta</option><option value="61762">Ai Weiwei</option><option value="53755">Aicher Otl</option><option value="19707">Aida Yusuke</option><option value="62463">Aihara Gen</option><option value="32636">Aiken George</option><option value="20153">Aikman Walter Monteith</option><option value="13161">Aitken John</option><option value="53773">Aitken John</option><option value="15368">Aivasovsky Ivan Konstantinovitsch</option><option value="50769">Aizawa Tomizō</option><option value="17327">Ajay Abraham (Abe)</option><option value="61931">Akaji Ken</option><option value="14690">Aken (also called Joseph Haecken) Joseph van</option><option value="18748">Aken Jan van</option><option value="57821">Akers Edward</option><option value="8277">Akersloot Willem Outgertsz.</option><option value="56562">Akihiko Izukura</option><option value="63064">Akihiro Maeta</option><option value="10738">Akin James</option><option value="62184">Akinbiyi Akinbode</option><option value="13850">Akrell Carl Fredrik von</option><option value="13736">Alaïa Azzedine</option><option value="10727">Alais Jean</option><option value="41733">Alais William John</option><option value="8386">Alamandini Girolamo</option><option value="40988">Alan McAfee, London</option><option value="1494">Alaux Jean Paul</option><option value="67">Albani Francesco</option><option value="32325">Albany Glass Works, Albany, New York</option><option value="18219">Albee Grace</option><option value="12802">Albers Anni</option><option value="17250">Albers Josef</option><option value="62191">Albers Rita</option><option value="29306">Albert</option><option value="12026">Albert Coles & Co., New York</option><option value="10812">Albert, Prince Consort of England</option><option value="8412">Alberti Cherubino</option><option value="35486">Alberti Durante</option><option value="9179">Alberti Gaspar</option><option value="8422">Alberti Pierfrancesco</option><option value="14424">Albertinelli Mariotto</option><option value="17828">Albinson Dewey</option><option value="439">Alboth Gustav Robert</option><option value="60978">Albotto Francesco</option><option value="8304">Albrecht Nicolaas</option><option value="776">Albrier Joseph</option><option value="18220">Albright Ivan</option><option value="16132">Alcanyís Miquel</option><option value="46199">Alcíbar José de</option><option value="13551">Alcopley Lewin</option><option value="265">Aldegrever Heinrich</option><option value="48318">Alden Albert</option><option value="8064">Aldewereld Herman van</option><option value="44472">Aldridge Charles</option><option value="44863">Aldridge James</option><option value="4130">Alegre Manuel</option><option value="1493">Alès Auguste François</option><option value="61084">Alessio Andrea</option><option value="55283">Alex.dre Tessier, rue St. Jacques, No. 10, Paris</option><option value="3607">Alexander Cosmo</option><option value="38305">Alexander Hedwig Haslam</option><option value="63622">Alexander J. E.</option><option value="10726">Alexander John</option><option value="15121">Alexander John White</option><option value="35731">Alexander Popoff's porcelain factory, Moscow Popoff Alexander</option><option value="63658">Alexander Richard</option><option value="32490">Alexander Samuel</option><option value="10735">Alexander William</option><option value="13536">Alexander, New York</option><option value="58281">Alexandre</option><option value="56230">Alexandrine, Paris</option><option value="59498">Aléxis W.</option><option value="8389">Alfieri Aurelio</option><option value="16310">Ali Riza Khan</option><option value="353">Aliamet François Germain</option><option value="350">Aliamet Jacques</option><option value="13769">Alighiero e Boetti</option><option value="762">Aligny Theodore</option><option value="1472">Alix Pierre-Michel</option><option value="10725">Alken Henry</option><option value="349">Allais Jean Alexandre</option><option value="11402">Allan William</option><option value="53153">Alland Alexander Sr.</option><option value="54678">Allard & Laval, France</option><option value="1483">Allard-Cambray Célestin</option><option value="1471">Allegrain Étienne</option><option value="16463">Allegretto di Nuzio, also called Allegretto Nuzi</option><option value="8384">Allegrini Francesco</option><option value="28285">Allen and Brother, Philadelphia</option><option value="58910">Allen Charles W. M.D.</option><option value="11953">Allen Frances S.</option><option value="12379">Allen Gordon</option><option value="20043">Allen Harold</option><option value="57832">Allen Harry</option><option value="10730">Allen James Baylie</option><option value="10731">Allen James Charles</option><option value="18174">Allen James E.</option><option value="14382">Allen John</option><option value="62868">Allen John</option><option value="10732">Allen Joseph William</option><option value="62675">Allen Ray</option><option value="57074">Allen Robert</option><option value="52877">Allié Georges</option><option value="745">Allix François</option><option value="18175">Allman Margo</option><option value="36682">Allongé Auguste</option><option value="51841">Allora Jennifer</option><option value="2604">Allori Alessandro</option><option value="8728">Allori Cristofano</option><option value="695">Allou Adelaïde</option><option value="15190">Allston Washington</option><option value="15849">Alma-Tadema Lawrence Sir</option><option value="18749">Almeloveen Jan van</option><option value="60211">Almond Darren</option><option value="8387">Aloja Raffaele</option><option value="8385">Aloja Vincenzo</option><option value="21000">Alonso Teresa</option><option value="31047">Alophe Marie-Alexandre</option><option value="10728">Alpenny Joseph Samuel</option><option value="10729">Alpenny W. M.</option><option value="16786">Alpern Linda K.</option><option value="61501">Alpert George</option><option value="44818">Alphonse Picard, Caen, France</option><option value="17631">Alps Glen</option><option value="14016">Alsdorff Christian</option><option value="38899">Alstyne Jeronimus</option><option value="71">Alt Rudolf von</option><option value="46792">Altaba Ariel Ruiz i</option><option value="55">Altdorfer Albrecht</option><option value="17630">Altman Harold</option><option value="186">Altmann Anton</option><option value="526">Altmann Carl</option><option value="56637">Altobelli & Co.</option><option value="8379">Altomonte Andreas</option><option value="50008">Altomonte Bartolomeo</option><option value="3469">Alton Eduard d'</option><option value="17241">Altoon John</option><option value="17283">Altschuler Franz</option><option value="39149">Álvarez Bravo Lola</option><option value="19659">Álvarez Bravo Manuel</option><option value="56061">Alvarez Danny</option><option value="53871">Alÿs Francis</option><option value="9765">Aman Theodor</option><option value="14815">Aman-Jean Edmond-François</option><option value="697">Amand Jacques François</option><option value="1485">Amand-Durand</option><option value="55937">Amanda Wakeley, England</option><option value="8377">Amato Francesco</option><option value="16559">Amatucci Carlo</option><option value="6606">Amberg Wilhelm</option><option value="8904">Ambrosi Francesco</option><option value="36831">Amedee François, Paris</option><option value="17648">Amen Irving</option><option value="20490">American China Manufactory (Bonnin and Morris), Philadelphia</option><option value="30932">American Crockery Company, Trenton, New Jersey</option><option value="30467">American Encaustic Tiling Company, Zanesville, Ohio</option><option value="62099">American Photographic Institute, New York</option><option value="20141">American Porcelain Company (formerly Tucker Factory), Philadelphia</option><option value="27554">American Pottery Company, Jersey City, New Jersey</option><option value="55918">American Pottery Manufacturing Company</option><option value="16818">Amero Emilio</option><option value="4126">Ametller Blas</option><option value="40297">Amey Ronald</option><option value="59634">Amico di Donato</option><option value="19734">Amidano Giulio Cesare</option><option value="5685">Amigoni Jacopo</option><option value="44">Amling Karl Gustav von</option><option value="35">Amman Jost</option><option value="54325">Amorales Carlos</option><option value="35721">Amory</option><option value="56062">Amos Emma</option><option value="47">Amsler Samuel</option><option value="51129">Amstel porcelain factory, Amstel, Netherlands</option><option value="60593">Amy, New York</option><option value="43982">Anart, Paris</option><option value="1488">Anastasi Auguste Paul Charles</option><option value="16168">Anastasi William</option><option value="45780">Anatsui El</option><option value="17328">Anchel Harold</option><option value="54718">Anchor Pottery, Trenton, New Jersey</option><option value="8413">Anderloni Faustino</option><option value="8414">Anderloni Pietro</option><option value="18176">Andersen Niels</option><option value="50950">Andersen Susan</option><option value="12388">Anderson Akili Ron</option><option value="16844">Anderson Alexander</option><option value="17632">Anderson Arnold</option><option value="17329">Anderson Carlos</option><option value="63340">Anderson Clarence William</option><option value="17296">Anderson Harry</option><option value="62759">Anderson Joyce</option><option value="36432">Anderson Karl</option><option value="4306">Andorff Friedrich August</option><option value="15139">Andrade Edna</option><option value="15295">Andre Carl</option><option value="16126">Andrea del Sarto (Andrea d'Agnolo di Francesco)</option><option value="14427">Andrea di Bartolo</option><option value="21">Andreae August Heinrich</option><option value="8415">Andreani Andrea</option><option value="61284">Andreas Jacob</option><option value="58902">Andreev Andrei</option><option value="14530">Andreini C. Morino</option><option value="31658">Andreoli Giorgio Maestro</option><option value="18656">Andrew Geller</option><option value="58255">Andrew Rachel</option><option value="56063">Andrews Benny</option><option value="28848">Andrews Hannah</option><option value="17629">Andrews Julia Wood</option><option value="3013">Andrieu Bertrand</option><option value="20558">Andriot François</option><option value="62196">Andrus Vera</option><option value="30572">Anelay Elizabeth Clough</option><option value="8383">Anesi Paolo</option><option value="10309">Angel Philips</option><option value="4899">Angelico Fra</option><option value="12889">Angell George</option><option value="29462">Angell Joseph</option><option value="29163">Angelo Photos</option><option value="18221">Angelo Valenti</option><option value="51323">Ango Jean-Robert</option><option value="9423">Angolo del Moro Battista</option><option value="9465">Angolo del Moro Marco</option><option value="16823">Anguiano Raúl</option><option value="17330">Angus Charlotte</option><option value="10733">Angus William</option><option value="2301">Anhalt-Dessau Leopold Friedrich von Duke</option><option value="16157">Anisfeld Boris</option><option value="54721">Anna Pottery, Anna, Illinois</option><option value="12970">Annan James Craig</option><option value="19695">Annan Thomas</option><option value="1478">Annedouche Joseph Alfred</option><option value="4299">Anner H.</option><option value="48143">Annie & Georgette, Paris</option><option value="54846">Annin William B.</option><option value="36074">Ansbach faience factory, Mittelfranken, Germany</option><option value="5918">Ansdell Richard</option><option value="11383">Anselevicius Evelyn Hill</option><option value="698">Anselin Jean Louis</option><option value="49819">Anselmi Giorgio</option><option value="5016">Anselmi Michelangelo</option><option value="15897">Anshutz Thomas Pollock</option><option value="31170">Anson Rufus J.</option><option value="16652">Anthony Joseph Jr.</option><option value="19002">Anthony Philip</option><option value="31171">Antonelli Severo</option><option value="14425">Antonello da Messina</option><option value="35595">Antonibon</option><option value="10373">Antonini Carlo</option><option value="57172">Antonini Tom.</option><option value="21048">Antonio Brotini for Botticelli, Italian</option><option value="18342">Antreasian Garo Zareh</option><option value="15460">Anuszkiewicz Richard</option><option value="52972">Aoigaoka Keisei</option><option value="4304">Apel J.</option><option value="4305">Apel Johann Heinrich</option><option value="16936">Apfelbaum Sally</option><option value="11635">Apollonio di Giovanni di Tommaso</option><option value="4298">Appel Friedrich</option><option value="15128">Appel Karel</option><option value="62831">Appelt Dieter</option><option value="29213">Appert Eugène</option><option value="1487">Appian Adolphe</option><option value="8649">Appiani Andrea</option><option value="19960">Apple Industrial Design Team, Cupertino, California</option><option value="4308">Appold Johann Leonhard</option><option value="8391">Aquila Francesco Faraone</option><option value="8421">Aquila Pietro</option><option value="16769">Ara (Benjamin Dusanovich Kosich)</option><option value="52791">Arad Ron</option><option value="52149">Aragón José</option><option value="13227">Arai Junichi</option><option value="61896">Araki Minol</option><option value="39354">Arbus Amy</option><option value="18912">Arbus Diane</option><option value="15966">Archambault Anna Margaretta</option><option value="20606">Archambo Peter</option><option value="19010">Archdall William</option><option value="14147">Archer and Warner, Philadelphia</option><option value="54592">Archer James</option><option value="15453">Archipenko Alexander Porfirevich</option><option value="56998">Archuleta Felipe Benito</option><option value="10427">Arco A. dell'</option><option value="747">Ardail Albert</option><option value="44660">Ardesoif Stephen</option><option value="8380">Ardy Bartolommeo</option><option value="15445">Arellano</option><option value="46340">Arens Egmont</option><option value="61383">Argenteria Fala, Cernobbio, Italy</option><option value="11726">Argy-Rousseau Gabriel</option><option value="20142">Arlent-Edwards Samuel</option><option value="43568">Arlette Mademoiselle</option><option value="16172">Armajani Siah</option><option value="16173">Arman (Armand Fernandez)</option><option value="19126">Armand-Calliat Thomas-Joseph</option><option value="14516">Armani Giorgio</option><option value="48467">Armington Caroline Helena</option><option value="15067">Armitage Elise Cavanna Seeds</option><option value="53347">Armitage George</option><option value="60861">Armitt Joseph</option><option value="56462">Armour George Denholm</option><option value="17635">Arms John Taylor</option><option value="54432">Armstrong Bill</option><option value="10724">Armstrong Cosmo</option><option value="62086">Armstrong W.</option><option value="10740">Armytage James Charles</option><option value="13564">Arn Daniel</option><option value="4307">Arndt Franz Gustav</option><option value="3288">Arndt Wilhelm</option><option value="19173">Arneson Robert</option><option value="60612">Arnhemsche Fayencefabriek, Arnhem, Netherlands</option><option value="18127">Arning Eddie</option><option value="18222">Arno Peter</option><option value="56213">Arnold Bill</option><option value="4309">Arnold Carl Johann</option><option value="63377">Arnold Daniel</option><option value="4321">Arnold Friedrich</option><option value="61626">Arnold Timothy</option><option value="49940">Arnoult Nicolas</option><option value="3276">Arnout Jean-Baptiste</option><option value="42663">Arnoux Guy</option><option value="56616">Arnoux Hippolyte</option><option value="27649">Arntz Michael</option><option value="6315">Arnz & Comp., Düsseldorf</option><option value="16283">Arp Jean (Hans)</option><option value="32691">Arras porcelain factory, Arras, France</option><option value="16023">Arrigo di Niccolò (Master of the Manassei Chapel)</option><option value="37625">Arroyave-Portela Nicholas</option><option value="11393">Arsworth Cinthia</option><option value="4303">Artaria Carl (or Karl)</option><option value="4302">Artaria Rudolf</option><option value="29237">Arthur Radoult & Cie</option><option value="1496">Artigue Albert-Emile</option><option value="19115">Artist of the Tabriz School</option><option value="13023">Artist/maker unknown</option><option value="62197">Artman Jean</option><option value="16178">Artschwager Richard</option><option value="62330">Artway Alexander</option><option value="18223">Artzybasheff Boris</option><option value="31202">Asano Takeji</option><option value="43337">Asayama Ashikuni</option><option value="8381">Ascani Domenico</option><option value="1682">Asch Pieter Jansz. van</option><option value="30369">Ash Janet Tomson</option><option value="59335">Ash Joseph I</option><option value="42963">Ashbee Charles Robert</option><option value="30120">Ashby Mary G.</option><option value="52570">Ashihiro</option><option value="52769">Ashikawa Hikokuni</option><option value="44904">Ashjian Lucy</option><option value="28788">Asics Corporation, Japanese</option><option value="8388">Asioli Giuseppe</option><option value="13689">Asman Robert</option><option value="9546">Aspertini Amico</option><option value="1499">Asselineau Léon Auguste</option><option value="61232">Assig Martin</option><option value="59846">assume vivid astro focus</option><option value="38656">Astbury & Maddock, Trenton, New Jersey</option><option value="56456">Asti Angelo</option><option value="36252">Asti Sergio</option><option value="28492">Astori Antonia</option><option value="43652">Asymptote, New York</option><option value="60650">Atalaya González Enrique</option><option value="62334">Atelier Martine, Paris</option><option value="33743">Atelier Wertheim, Berlin</option><option value="56360">Ateliers Franohel, Paris</option><option value="16987">Atget Eugène</option><option value="39081">Atkins</option><option value="59721">Atkins James</option><option value="11401">Atkins Lloyd</option><option value="10832">Atkinson John Augustus</option><option value="14914">Atl (Gerardo Murillo) Dr.</option><option value="34290">ATO</option><option value="63957">Atomi Kakei</option><option value="754">Aubert Antoine</option><option value="756">Aubert Michel Guillaume</option><option value="41287">Aubrun Louis</option><option value="3258">Aubry Charles</option><option value="26866">Aubry Charles</option><option value="59516">Aubry Jean</option><option value="694">Aubry Pierre I</option><option value="7050">Aubry Pierre II</option><option value="1480">Aubry-Lecomte Hyacinthe Louis Victor</option><option value="18750">Audenaerde Robert van</option><option value="10734">Audinet Philipp</option><option value="355">Audouin Pierre</option><option value="66">Audran Benoît I</option><option value="59">Audran Gérard</option><option value="61">Audran II Benoît</option><option value="487">Audran Jean</option><option value="58">Audran Karl</option><option value="62">Audran Louis</option><option value="17618">Auerbach-Levy William</option><option value="28832">Auguste Lefèbure et Fils, France</option><option value="27491">Auguste-Dominique Denuelle porcelain factory, Paris</option><option value="15736">Augustin Jean-Baptiste-Jacques</option><option value="38239">Augustini Jan</option><option value="36868">Aulenti Gae</option><option value="15462">Ault George C.</option><option value="8390">Aureli Nicolò</option><option value="41396">Auril Paul Victor</option><option value="32040">Austin Alice</option><option value="10739">Austin William</option><option value="56624">Aux Mille et Une Nuits, Paris</option><option value="45654">Auzolle Marcellin</option><option value="31230">Avedon Richard</option><option value="749">Aveline II Pierre Alexandre</option><option value="1057">Aveline Jean Alexandre</option><option value="30266">Avery Elizabeth M</option><option value="17025">Avery Eric</option><option value="16057">Avery Milton</option><option value="8373">Avont Pieter van</option><option value="761">Avril II Jean Jacques</option><option value="758">Avril Jean Jacques I</option><option value="19941">Awashima Masakichi</option><option value="20283">Awatsuji Hiroshi</option><option value="59943">Awde George</option><option value="19554">Aycock Alice</option><option value="61593">Aylieff Felicity</option><option value="13778">Aylward William James</option><option value="51470">Azechi Umetarō</option><option value="17626">Azuma Norio</option><option value="39122">Azzaro Loris</option><option value="8392">Azzerboni Giuseppe</option></select>      </div><p></p>                
+      
+      <b>Classification:</b>
+      <span class="f_field">
+        <select name="searchClassID" class="f_field" with="100px;"><option value=""> -- Choose Type -- </option><option value="0">(not assigned)</option><option value="17">Architecture (including fragments)</option><option value="34">Archival</option><option value="18">Arms and Armor</option><option value="37">Books</option><option value="38">Calligraphy</option><option value="9">Ceramics</option><option value="70">Ceramics - Pre-Columbian</option><option value="44">Coins and Medals</option><option value="67">Containers - Wood</option><option value="23">Costume (including accessories)</option><option value="7">Drawings</option><option value="16">Enamels</option><option value="41">Fiber Art</option><option value="48">Film/Video</option><option value="45">Frames</option><option value="2">Furniture</option><option value="11">Glass</option><option value="36">Installation Art</option><option value="28">Ivory/Horn/Bone/Shell</option><option value="10">Jades and other stones</option><option value="20">Jewelry</option><option value="13">Lacquer</option><option value="24">Lighting</option><option value="19">Manuscripts</option><option value="49">Maps</option><option value="15">Metalwork</option><option value="21">Miniatures</option><option value="26">Musical Instruments</option><option value="3">Paintings</option><option value="4">Photographs</option><option value="50">Plastics</option><option value="5">Prints</option><option value="6">Sculpture</option><option value="72">Sculpture - African</option><option value="75">Sculpture - Pre-Columbian</option><option value="31">Stained Glass</option><option value="12">Textiles</option><option value="29">Timepieces</option><option value="14">Tools/Equipment/Utensils</option><option value="69">Tools/Equipment/Utensils - Native American</option><option value="76">Tools/Equipment/Utensils - Pre-Columbian</option><option value="27">Toys (including dolls, games, puppets)</option><option value="40">Wallpaper</option></select>      </span><p></p>
+      <b>Country of Work:</b>
+      <span class="f_field">
+        <select name="searchOrigin" class="f_field" with="100px;"><option value=""> -- Choose Country -- </option><option value="1521663">Afghanistan</option><option value="1542896">Algeria</option><option value="1417564">Argentina</option><option value="1519267">Armenia (Republic)</option><option value="1524478">Australia</option><option value="1419772">Austria</option><option value="1519082">Azerbaijan</option><option value="607600">Bahamas</option><option value="1474461">Bangladesh</option><option value="1421289">Belgium</option><option value="607731">Belize</option><option value="606371">Bermuda</option><option value="1521390">Bhutan</option><option value="1408889">Bolivia</option><option value="1409265">Brazil</option><option value="1474977">Brunei</option><option value="1458502">Bulgaria</option><option value="1541550">Burkina Faso</option><option value="1475544">Cambodia</option><option value="1531368">Cameroon</option><option value="612353">Canada</option><option value="1531579">Central African Republic</option><option value="1413870">Chile</option><option value="1475798">China</option><option value="1500146">China (Republic : 1949- )</option><option value="1414585">Colombia</option><option value="607790">Costa Rica</option><option value="1534045">Côte d'Ivoire</option><option value="1462302">Croatia</option><option value="606766">Cuba</option><option value="1447676">Czech Republic</option><option value="1422070">Denmark</option><option value="607987">Dominican Republic</option><option value="1415238">Ecuador</option><option value="1543485">Egypt</option><option value="608127">El Salvador</option><option value="1465656">England</option><option value="1541960">Ethiopia</option><option value="1529351">Fiji</option><option value="1423052">Finland</option><option value="1423664">France</option><option value="1522263">French Polynesia</option><option value="1533517">Gabon</option><option value="1448485">Germany</option><option value="1533718">Ghana</option><option value="1431345">Greece</option><option value="607347">Grenada</option><option value="608249">Guatemala</option><option value="1533918">Guinea</option><option value="608477">Haiti</option><option value="608506">Honduras</option><option value="1456849">Hungary</option><option value="1432398">Iceland</option><option value="1503689">India</option><option value="1486385">Indonesia</option><option value="1507667">Iran</option><option value="1489259">Iraq</option><option value="1432578">Ireland</option><option value="1489451">Israel</option><option value="1433586">Italy</option><option value="1489890">Japan</option><option value="1494347">Jordan</option><option value="1520239">Kazakhstan</option><option value="1534308">Kenya</option><option value="1494612">Korea (North)</option><option value="1508537">Korea (South)</option><option value="1494933">Kuwait</option><option value="1494964">Laos</option><option value="1495164">Lebanon</option><option value="1534580">Liberia</option><option value="1534682">Libya</option><option value="1459307">Lithuania</option><option value="1456687">Luxembourg</option><option value="1474308">Macau</option><option value="1462758">Macedonia</option><option value="1534921">Madagascar</option><option value="1535372">Mali</option><option value="1456807">Malta</option><option value="606501">Martinique</option><option value="1535766">Mauritius</option><option value="1530506">Mayotte</option><option value="608942">Mexico</option><option value="1495914">Mongolia</option><option value="1535785">Morocco</option><option value="1474996">Myanmar</option><option value="1496397">Nepal</option><option value="1472826">Netherlands</option><option value="1536657">Nigeria</option><option value="1441178">Norway</option><option value="1496563">Pakistan</option><option value="612088">Panama</option><option value="1415776">Peru</option><option value="1497247">Philippines</option><option value="1457335">Poland</option><option value="1441966">Portugal</option><option value="606031">Puerto Rico</option><option value="1442567">Romania</option><option value="1509110">Russia</option><option value="1542756">Rwanda</option><option value="1463782">Scotland</option><option value="1537604">Senegal</option><option value="1509017">Singapore</option><option value="1472651">Slovakia</option><option value="1462848">Slovenia</option><option value="1538125">South Africa</option><option value="1443213">Spain</option><option value="1475709">Sri Lanka</option><option value="1445509">Sweden</option><option value="1471470">Switzerland</option><option value="1499705">Syria</option><option value="1500146">Taiwan, Province of China</option><option value="1540640">Tanzania</option><option value="1500450">Thailand</option><option value="1476133">Tibet</option><option value="1542840">Togo</option><option value="607529">Trinidad and Tobago</option><option value="1541146">Tunisia</option><option value="1501112">Turkey</option><option value="1519871">Turkmenistan</option><option value="1541400">Uganda</option><option value="1460288">Ukraine</option><option value="1463106">United Kingdom</option><option value="619793">United States</option><option value="1416573">Uruguay</option><option value="1519987">Uzbekistan</option><option value="1416912">Venezuela</option><option value="1503251">Vietnam</option><option value="606432">Virgin Islands of the United States</option><option value="1463124">Wales</option><option value="1447431">Yugoslavia</option><option value="1537373">Zimbabwe</option></select>      </span><p></p>
+      <b>Curatorial:</b>
+      <span class="f_field">
+        <select name="searchDeptID" class="f_field" with="100px;"><option value=""> -- Choose Curatorial Department -- </option><option value="2">American Art</option><option value="18">Archives</option><option value="47">Contemporary Art</option><option value="9">Costume and Textiles</option><option value="4">East Asian Art</option><option value="3">European Decorative Arts and Sculpture</option><option value="5">European Painting</option><option value="1">Prints, Drawings, and Photographs</option><option value="11">Rodin Museum</option><option value="8">South Asian Art</option></select>      </span><p></p>
+      <b>Provenance:</b>
+      <span class="f_field">
+        <input type="checkbox" value="1" onclick="document.forms[1].elements['searchProvenance'].value=1;" name="provenance"/>
+        Show Only Records with <a href="/research/216-98-108.html">Provenance</a> </span><p></p>
+        
+        <b>Audio:</b>
+        <span class="f_field">
+        <input type="checkbox" value="1" onclick="document.forms[1].elements['searchAudio'].value=1;" name="audio"/>
+        Show Only Records with Audio Files </span><p></p>
+        
+        <b>On View:</b>
+          <span class="f_field">
+        <input type="checkbox" value="1" onclick="document.forms[1].elements['searchOnView'].value=1;" name="onView"/>
+        Show Only Objects in the Galleries </span><p><br/></p>
+        &nbsp;
+        <input type="submit" value=" Search " name="keySearch2" onclick="setPage(1);" class="f_btn"/>
+        <input type="button" name="keyReset2" value=" Reset " onclick="location='/collections/search.html'" class="f_btn"/>
+	
+ </div>       
+</div>
+<!-- begin accession id search table -->
+<h2 class="section-title">Search By Accession Number</h2>
+
+<div class="entry-wrapper" style="text-align:left">
+
+<div id="accessionDiv">
+<b>Accession Number: </b>
+		<input type="text" name="accessionID" size="65" maxlength="75" class="f_field" onkeydown="disableFields();" onkeyup="disableFields();" onblur="disableFields()"/>
+        <input type="submit" value=" Search " onClick="setPage(1);" class="f_btn" name="accSearch"/> <input type="button" value=" Reset " onClick="location='/collections/search.html'" class="f_btn" name="accReset"/>
+</div>
+</div>
+<!-- begin accession id search table -->
+
+<input type="hidden" name="page" value="0"/>
+</form>
+
+<form method="get" action="/collections/search.html#advanced">
+	<input type="hidden" name="searchTxt" value=""/>
+	<input type="hidden" name="searchAudio" value="0"/>
+    <input type="hidden" name="searchOnView" value="0"/>
+	<input type="hidden" name="searchProvenance" value="0"/>
+	<input type="hidden" name="letter" value="A"/>
+	<input type="hidden" name="classID" value=""/>
+	<input type="hidden" name="origin" value=""/>
+    <input type="hidden" name="deptID" value=""/>
+	<input type="hidden" name="searchOptions" value="0"/>
+</form>
+
+			
+
+						<div class="cleaner"></div>
+
+
+						<div align="right" class="back_btn"><p><a href="javascript:history.go(-1);"><img src="/images/interface/icons/previouspage.gif" border="0" alt="Return to Previous Page"/></a></p></div>
+
+
+			
+
+
+			
+</div><!--/span-->
+
+<div id="sidebar" class="span3">
+
+        <a name="jumptoSideNav"></a> <!-- subNav jump for Accessibility -->
+
+				<div class="well sidebar-nav  visible-desktop">
+ <div style="padding-left:14px; padding-bottom:10px;"><a href="/" class="sNavLink">Home</a></div>
+                <ul class="nav nav-list">
+                 
+                  
+                  <li class="sideNav-header">Collections</li></ul><div id='subNav_line'>&nbsp;</div><ul class="nav nav-list"> <li class="active"><a href="/collections/search.html" class="sNavLinkactive">Search Collections</a></li><ul class="nav nav-list"></ul><li class=""><a href="/acquisitions/" class="sNavLink">New Acquisitions</a></li><li class=""><a href="/explore/" class="sNavLink">Explore Collections</a></li><li class=""><a href="http://www.philamuseum.org/collections/634-549.html" class="sNavLink">South Asian Art</a></li><li class=""><a href="/collections/audiotours.html" class="sNavLink">Audio Tours</a></li><li class=""><a href="http://www.philamuseum.org/collections/608-510.html" class="sNavLink">ART 24/7</a></li>                </ul>
+                <!-- END SUBGLOBALS AND SUBNAV -->
+
+                
+                <div id="subNav_line">&nbsp;</div>
+                <!-- RELATED LINKS -->
+                <div id="relatedNav">
+
+<div class="relatedNavLink"><a href="https://www.philamuseum.org/giving/441-146-81.html#art247" class="relatedNavLink">Support ART 24/7</a></div><div class="relatedNavLink"><a href="https://www.philamuseum.org/publications/2.html" class="relatedNavLink">Guides to the Museum &amp; its Collections</a></div><div id="relatedNav_line">&nbsp;</div><div class="relatedNavLink"></div><div style="padding-top:4px;"></div><div style="text-align:center"><a data-accesso-keyword="ADMISSION" onClick=ga('send','event', 'GA_Button','Click_GA_Button_side','Click_GA_Button');" target="_blank" class="btn btn-warning">Buy Now & Save</a></div><div id="relatedNav_line">&nbsp;</div><div class='relNav_promo'><a href="https://store.philamuseum.org/" onMouseDown="ga('send','event', 'RelNav_promo','Click_RelNav_promo','rnp_Shop_Earrings_SideRail');"  class="darken"  ><img name="" src="/promo/relNav/Shop_Earrings_SideRail_rn.jpg" onload="ga('send', 'event', 'RelNav_promo','Impression_RelNav_promo','rnp_Shop_Earrings_SideRail');" border='0'></a></div><div id="relatedNav_line">&nbsp;</div></div><div class="relatedNavLink" style="padding-top:10px;"><a href="javascript:window.print();"><img src="https://www.philamuseum.org/images/interface/icons/print_txt.gif" border="0" style="padding-right:4px; alt="Print this Page"/></a></div>
+</div>
+
+
+
+
+
+
+
+</div><!--/.well -->
+              </div>
+
+
+              </div>
+
+              
+ <div class="row-fluid"><!--row-->
+ 	 <div class="span12">
+			 <hr>
+             </div>
+             </div>
+           <div class="row-fluid visible-desktop visible-tablet"><!--row-->
+
+                 <div class="span4">
+                 <div class="footerLinks">
+                 <a href="https://www.philamuseum.org/copyright.html">&copy; 2018 Philadelphia Museum of Art</a></div>
+
+
+               </div>
+                  <div class="span8" style="text-align:right;">
+
+                	<div class="footerLinks">
+                 	 <a href="https://www.philamuseum.org/search.html">Search</a> | <a href="https://www.philamuseum.org/shop/" target="_blank">Shop</a> | <a href="https://www.philamuseum.org/webpolicies.html">Privacy &amp; Security</a> | <a href="https://www.philamuseum.org/contacts/">Contacts</a> | <a href="https://www.philamuseum.org/sitemap.html">Sitemap</a>
+                     </div>
+     			 </div>
+
+     </div>
+
+
+<div class="visible-phone"><!--row-->
+
+
+
+
+                <div class="span12" style="text-align:center;">
+                <div class="footerLinks">
+                 <a href="https://www.philamuseum.org/copyright.html">&copy; 2018 Philadelphia Museum of Art</a>
+
+
+                 <p></p>
+                 	 <a href="https://www.philamuseum.org/search.html">Search</a> | <a href="https://www.philamuseum.org/sitemap.html">Sitemap</a> <!-- | <a href="/myMuseum">My Museum</a> -->| <a href="https://www.philamuseum.org/webpolicies.html">Privacy &amp; Security</a> | <a href="https://www.philamuseum.org/contacts/">Contacts</a>
+                     </div>
+
+
+                                      <p></p>
+
+
+
+ </div>
+
+     </div>
+
+
+
+
+
+
+
+
+</div>
+<div class="row-fluid visible-phone" style="text-align:center; padding-top:10px;">
+
+<a href="https://twitter.com/philamuseum"><img src="/images/twitter_icon.gif" width="30" style="opacity:0.4;
+filter:alpha(opacity=10);"></a>
+<a href="https://www.facebook.com/philamuseum"><img src="/images/facebook_icon.gif" width="30" style="opacity:0.4;
+filter:alpha(opacity=10);"></a>
+<a href="http://philamuseum.tumblr.com/"><img src="/images/tumblr_icon.gif" width="30" style="opacity:0.4;
+filter:alpha(opacity=10);"></a>
+<a href="http://instagram.com/philamuseum"><img src="/images/instagram_icon.gif" width="30" style="opacity:0.4;
+filter:alpha(opacity=10);"></a>
+<a href="https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewArtistSeeAll?cc=us&dkId=4&ids=185692647&section=0"><img src="/images/iTunes_icon.gif" width="30" style="opacity:0.4;
+filter:alpha(opacity=10);"></a>
+</div>
+ </div>
+    </body>
+</html>
+
+
+<!-- nrd -->
+
+<script src="/includes/js_includes/vendor/jquery-1.9.0.js"></script>
+<script src="/includes/js_includes/vendor/bootstrap.js"></script>
+<script src="/includes/js_includes/vendor/modernizr-2.6.2-respond-1.1.0.min.js"></script>
+
+
+ <script src="/includes/js_includes/plugins.js"></script>
+ <script src="/includes/js_includes/main.js"></script>
+
+
+
+<!-- Effects  -->
+<script src="/includes/js_includes/newEffects.js"></script>
+
+
+
+
+
+<script>
+  $(document).ready(function(){
+
+  $('.carousel').carousel({
+	         interval: 6000
+  , pause: 'false'
+
+    });
+
+    function tmsSlide() {
+   $('#tmsCarousel').carousel('pause');
+   $('#tmsCarousel_phone').carousel('pause');
+   }
+
+
+setTimeout(tmsSlide, 10);
+
+
+
+
+	var myHash = window.location.hash.substr(1);
+   //alert(myHash + "_hash");
+  if (myHash == "JoseonVideo") {
+       setTimeout(function() {catchSlideOpen("#vid");}, 800 );
+
+
+        }
+
+
+
+
+
+	});
+
+	$(function() {
+    $('[rel="dltips"]').tooltip({placement: 'bottom'});
+	$('[rel="dltipz"]').tooltip({placement: 'bottom'});
+	//$('[rel="enlargetips"]').tooltip({placement: 'bottom'});
+	//$('[rel="reducetips"]').tooltip({placement: 'bottom'});
+});
+
+
+</script>
+
+
+
+
+
+<!-- /////// Begin Store Pixels /////// -->
+
+<!-- Facebook Pixel Code -->
+
+<script>
+
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+
+document,'script','https://connect.facebook.net/en_US/fbevents.js');
+
+fbq('init', '1397289793845022');
+
+fbq('track', 'PageView');
+
+</script>
+
+<noscript><img height="1" width="1" style="display:none"
+
+src="https://www.facebook.com/tr?id=1397289793845022&ev=PageView&noscript=1"
+
+/></noscript>
+
+<!-- DO NOT MODIFY -->
+
+<!-- End Facebook Pixel Code -->
+
+
+
+<script type="text/javascript">
+
+/* <![CDATA[ */
+
+var google_conversion_id = 871691647;
+
+var google_custom_params = window.google_tag_params;
+
+var google_remarketing_only = true;
+
+/* ]]> */
+
+</script>
+
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+
+</script>
+
+<noscript>
+
+<div style="display:inline;">
+
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/871691647/?value=1&amp;guid=ON&amp;script=0"/>
+
+</div>
+
+</noscript>
+
+
+<script>(function(w,d,t,r,u){var f,n,i;w[u]=w[u]||[],f=function(){var o={ti:"5439504"};o.q=w[u],w[u]=new UET(o),w[u].push("pageLoad")},n=d.createElement(t),n.src=r,n.async=1,n.onload=n.onreadystatechange=function(){var s=this.readyState;s&&s!=="loaded"&&s!=="complete"||(f(),n.onload=n.onreadystatechange=null)},i=d.getElementsByTagName(t)[0],i.parentNode.insertBefore(n,i)})(window,document,"script","//bat.bing.com/bat.js","uetq");</script><noscript><img src="//bat.bing.com/action/0?ti=5439504&Ver=2" height="0" width="0" style="display:none; visibility: hidden;" /></noscript>
+
+
+<!-- /////// End Store Pixels /////// -->
+
+
+
+
+
+
+
+
+
+
+
+<!--BEGIN QUALTRICS SITE INTERCEPT-->
+<script type='text/javascript'>
+(function(){var g=function(e,h,f,g){
+this.get=function(a){for(var a=a+"=",c=document.cookie.split(";"),b=0,e=c.length;b<e;b++){for(var d=c[b];" "==d.charAt(0);)d=d.substring(1,d.length);if(0==d.indexOf(a))return d.substring(a.length,d.length)}return null};
+this.set=function(a,c){var b="",b=new Date;b.setTime(b.getTime()+6048E5);b="; expires="+b.toGMTString();document.cookie=a+"="+c+b+"; path=/; "};
+this.check=function(){var a=this.get(f);if(a)a=a.split(":");else if(100!=e)"v"==h&&(e=Math.random()>=e/100?0:100),a=[h,e,0],this.set(f,a.join(":"));else return!0;var c=a[1];if(100==c)return!0;switch(a[0]){case "v":return!1;case "r":return c=a[2]%Math.floor(100/c),a[2]++,this.set(f,a.join(":")),!c}return!0};
+this.go=function(){if(this.check()){var a=document.createElement("script");a.type="text/javascript";a.src=g+ "&t=" + (new Date()).getTime();document.body&&document.body.appendChild(a)}};
+this.start=function(){var a=this;window.addEventListener?window.addEventListener("load",function(){a.go()},!1):window.attachEvent&&window.attachEvent("onload",function(){a.go()})}};
+try{(new g(100,"r","QSI_S_ZN_2ccDMfGcsX43gdT","//zn2ccdmfgcsx43gdt-storyworldwide.siteintercept.qualtrics.com/WRSiteInterceptEngine/?Q_ZID=ZN_2ccDMfGcsX43gdT&Q_LOC="+encodeURIComponent(window.location.href))).start()}catch(i){}})();
+</script><div id='ZN_2ccDMfGcsX43gdT'><!--DO NOT REMOVE-CONTENTS PLACED HERE--></div>
+<!--END SITE INTERCEPT-->
+
+
+<!-- Lightbox JS/Libraries -->
+<!-- <script type="text/javascript" src="https://philamuseum.org/includes/js_includes/vendor/jquery-1.9.0.js"></script> -->
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.0.47/jquery.fancybox.min.js"></script>
+

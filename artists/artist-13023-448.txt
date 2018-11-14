@@ -1,0 +1,748 @@
+﻿<!DOCTYPE html>
+<html>
+
+
+<head>
+<meta charset="utf-8">
+
+<meta name="author" content="Philadelphia Museum of Art" />
+<meta name="copyright" content="1997-2018" />
+<meta name="publisher" content="Philadelphia Museum of Art" />
+<meta name="Keywords" content="Philadelphia Museum of Art,Philadelphia,Museum of Art,Museum,Art,Benjamin Franklin Parkway,Ben Franklin Parkway,Parkway,PA" />
+
+<meta name="viewport" content="width=device-width, initial-scale=0.8, maximum-scale=1">
+
+<meta name="description" content="The Philadelphia Museum of Art is the cultural heart of a great city—the place for creative play, with a surprise around every corner." />
+<meta name="revisit-after" content="2 days" />
+<meta name="MSSmartTagsPreventParsing" content="TRUE" />
+<meta name="googlebot" content="noarchive" />
+<meta name="verify-v1" content="FpGPTk4WNzc1pdkxAxpDQ+PISq/cTlFz7T/FSYErdRc=" />
+<meta http-equiv="Last-Modified" content="Wed, 14 Nov 2018 00:10:45 -0500" />
+<meta http-equiv="Pragma" content="no-cache" />
+<meta http-equiv="Expires" content="-1" />
+<meta http-equiv="Cache-Control" content="no-cache" />
+
+<title>Philadelphia Museum of Art - Collections  :  Search Collections</title>
+
+
+        <link rel="stylesheet" href="/css/bootstrap.css">
+        <style>
+            body {
+                padding-top: 60px;
+                padding-bottom: 40px;
+            }
+
+
+
+
+
+        </style>
+                <link href="/font/avenir.css" rel="stylesheet" type="text/css" />
+
+<link rel="stylesheet" href="/css/main.css">
+<link rel="stylesheet" href="/css/bootstrap-responsive.css">
+<link rel="stylesheet" href="/css/jquery-ui.css">
+
+<!-- Lightbox CSS -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.0.47/jquery.fancybox.min.css" />
+<!-- <link rel="stylesheet" href="https://philamuseum.org/css/bootstrap.css" /> -->
+<style type="text/css">
+    .fancybox {
+        max-width: 706px !important;
+        max-height: 617px !important;
+    }
+    .fancybox-slide>* {
+        padding: 0;
+    }
+    #hidden-content {
+        max-width: 706px;
+        width: 100%;
+    }
+</style>
+
+<link rel="shortcut icon" href="https://www.philamuseum.org/favicon.ico?v=2" />
+
+<script src="https://secure-ds.serving-sys.com/BurstingRes/CustomScripts/mmConversionTagV6.js"></script>
+
+<style>
+/* **************** PROMO ****************** */
+
+#promoArea {
+	width:750px;
+	height: 160px;
+	background:  url('/images/interface/dotted_hor.gif') bottom repeat-x;
+	padding-bottom: 1px;	
+	overflow: hidden;
+}
+
+#promoArea object, #promoArea embed {
+	width: 750px;
+	height: 160px;
+}
+
+</style>
+<link rel="stylesheet" rev="stylesheet" href="/styles/collections.css" type="text/css" media="screen,print" charset="utf-8" />
+
+
+<link rel="stylesheet" href="/styles/mediabox.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="/styles/mediabox134b.css" type="text/css" media="screen" />
+
+
+<!-- RSS -->
+
+
+           <!-- Begin Accesso Script -->
+<script type="text/javascript" src="//pma.secure.accesso.com/embed/accesso.js" data-accesso></script>
+
+<!-- ADA Testing -->
+<script>var access_analytics={base_url:"https://analytics.ssbbartgroup.com/api/",instance_id:"AA-58dbfb1853e65"};(function(a,b,c){var d=a.createElement(b);a=a.getElementsByTagName(b)[0];d.src=c.base_url+"access.js?o="+c.instance_id+"&v=2";a.parentNode.insertBefore(d,a)})(document,"script",access_analytics);</script>
+
+<script type="text/javascript">
+<!--
+// prevents framing of content
+var domain = "www.philamuseum.org";
+if ((top.location != self.location) && (top.location.host != domain)) {
+	top.location = self.location.href;
+}
+//-->
+</script>
+
+<!-- legacy JS ---------------------------------------- -->
+<script language="javascript" type="text/javascript" src="/includes/js_includes/general.js"></script>
+<script src="/includes/js_includes/swfobject.js" type="text/javascript"  language="JavaScript1.2" charset="utf-8"></script>
+<script src="/includes/js_includes/ajax.js" type="text/javascript" language="JavaScript1.2" charset="utf-8"></script>
+
+
+<script language="javascript" type="text/javascript" src="/includes/js_includes/mootools.js"></script>
+<script language="javascript" type="text/javascript" src="/includes/js_includes/mediabox134b.js"></script>
+<script language="javascript" type="text/javascript" src="/includes/js_includes/motionSlide.js"></script>
+<script src="/includes/js_includes/thumbSlider.js" type="text/javascript" language="JavaScript1.2" charset="utf-8"></script>
+
+
+
+
+
+
+
+
+
+<!-- NEW Google -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+   ga('create', 'UA-1914086-1', 'auto' , { 'allowLinker' : true });
+  ga ('require' , 'linker');
+  ga ('linker:autoLink' , ['philamuseum.org,accesso.com']);
+
+	// Google REMARKETING
+	ga('require', 'displayfeatures');
+
+	ga('set', {'dimension1': 'Collections'});
+	ga('set', {'dimension2': 'Search Collections'});
+	ga('set', {'dimension3': 'Not Assigned'});
+	// END Google REMARKETING
+
+  ga('send', 'pageview');
+
+</script>
+<!-- END GOOGLE -->
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5N9FZSN');</script>
+<!-- End Google Tag Manager -->
+
+    </head>
+    <body>
+      <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5N9FZSN"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+     <a name="top"></a>
+           <div class="navbar navbar-inverse navbar-fixed-top center">
+      
+        <div class="container visible-desktop">
+                <a class="navbar-brand pmaTitle"  href="/"><img src="/images/pma_title_horz.png" alt="" width="190px"></a>
+                   <div class="nav-header">
+
+
+                       <div class="logobar"></div>
+      
+
+
+
+            </div>
+        </div>
+
+    <div class="container">
+        <div class="navbar-inner">
+                <div class="container">
+
+
+                <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </a>
+
+                   <div class="brand visible-tablet visible-phone"><a href="/"><img src="/images/pma_title_horz.png?2014" alt="" width="190px"></a></div>
+
+
+                    <div class="nav-collapse collapse">
+                        <ul class="nav">
+                            <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Visiting<!-- b class="caret"></b --></a><ul class="dropdown-menu"><li><a href="/visit/">Plan Your Visit</a></li><li><a href="/dining/">Dining Options</a></li><li><a href="/shopping/">Shop</a></li><li><a href="/groupvisits/">Group Visits</a></li><li><a href="/entertaining/">Entertaining</a></li><li><a href="/podcast/">Podcasts</a></li><li><a href="http://www.philamuseum.org/visit/640-551.html">Floor Plan</a></li><li><a href="/accessibility/">Accessibility</a></li></ul></li><li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">On View<!-- b class="caret"></b --></a><ul class="dropdown-menu"><li><a href="/exhibitions/current.html">Current Exhibitions</a></li><li><a href="/exhibitions/upcoming.html">Upcoming Exhibitions</a></li><li><a href="/exhibitions/past.html">Past Exhibitions</a></li><li><a href="/galleries/">In the Galleries</a></li><li><a href="/sculpturegarden/">Sculpture Garden</a></li></ul></li><li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Calendar<!-- b class="caret"></b --></a><ul class="dropdown-menu"><li><a href="/calendar">Today at the Museum</a></li><li><a href="/calendarEvents/programs.html">Family & Adult Programs</a></li><li><a href="/calendarEvents/member_events.html">Member Programs</a></li><li><a href="/wednesdaynights">Wednesday Nights</a></li><li><a href="/fridaynights">Friday Nights</a></li><li><a href="/holidays">Holidays</a></li></ul></li><li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Collections<!-- b class="caret"></b --></a><ul class="dropdown-menu"><li><a href="/collections/search.html">Search Collections</a></li><li><a href="/acquisitions/">New Acquisitions</a></li><li><a href="/explore/">Explore Collections</a></li><li><a href="http://www.philamuseum.org/collections/634-549.html">South Asian Art</a></li><li><a href="/collections/audiotours.html">Audio Tours</a></li><li><a href="http://www.philamuseum.org/collections/608-510.html">ART 24/7</a></li></ul></li><li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Research<!-- b class="caret"></b --></a><ul class="dropdown-menu"><li><a href="/conservation/">Conservation</a></li><li><a href="/publications/">Publications</a></li><li><a href="http://www.philamuseum.org/research/98-108.html">Provenance</a></li><li><a href="http://www.philamuseum.org/research/619-534.html">Costume & Textiles Study Room</a></li><li><a href="http://www.philamuseum.org/research/617-532.html">Prints, Drawings, & Photographs Study Room</a></li><li><a href="http://www.philamuseum.org/research/540-426.html">Center for American Art</a></li><li><a href="http://www.philamuseum.org/research/490-373.html">Korean Heritage Group</a></li><li><a href="/archives/">Archives</a></li><li><a href="/library/">Library</a></li></ul></li><li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">School & Teachers<!-- b class="caret"></b --></a><ul class="dropdown-menu"><li><a href="http://www.philamuseum.org/education/124-192.html">Arranging Your School Visit</a></li><li><a href="/schooltours">School Tours & Programs</a></li><li><a href="/teacherprograms">Teacher Programs</a></li><li><a href="/teacherresources">Teacher Resources</a></li><li><a href="http://www.philamuseum.org/education/273-233.html">Colleges</a></li><li><a href="http://www.philamuseum.org/education/530-416.html">Wachovia Education Resource Center</a></li><li><a href="/communityengagement">Community Engagement</a></li></ul></li><li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Join & Support<!-- b class="caret"></b --></a><ul class="dropdown-menu"><li><a href="/membership/">Membership</a></li><li><a href="http://www.philamuseum.org/?keyword=Donations">Donate Online</a></li><li><a href="http://www.philamuseum.org/giving/579-256.html">Corporate Giving</a></li><li><a href="http://www.philamuseum.org/giving/146-81.html">Target Your Gift</a></li><li><a href="http://www.philamuseum.org/giving/139-79.html">Matching Gifts</a></li><li><a href="/plannedgiving/">Planned Giving</a></li><li><a href="/annualfund">Annual Fund</a></li><li><a href="/associates">Associates & Chairman’s Council</a></li><li><a href="/friendsgroups/">Friends Groups</a></li></ul></li><li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">About Us<!-- b class="caret"></b --></a><ul class="dropdown-menu"><li><a href="http://www.philamuseum.org/information/43-323.html">Administration</a></li><li><a href="http://press.philamuseum.org">Newsroom</a></li><li><a href="/stayconnected/">Stay Connected</a></li><li><a href="/ourfuture/">Our Future</a></li><li><a href="http://www.philamuseum.org/information/45-19.html">Our Story</a></li><li><a href="/jobs/">Join Our Team</a></li><li><a href="/contacts/">Contacts</a></li></ul></li>                        </ul>
+                    </div><!--/.nav-collapse -->
+
+                </div>
+        </div>
+</div>
+
+ </div>
+       <div class="deskSpacer visible-desktop"></div>
+      
+<div class="container">
+<!-- promo -->
+<div class="promo-unit"><div class="utilities_promo" style="height:1px"></div></div><!-- end promo -->
+
+
+<div class="pinch">
+
+<div class="row-fluid">
+
+
+<div id="content" class="span9"><!--Body content-->
+
+<div class="row-fluid"><ul class="breadcrumb"><li>Collections</li> <span class="divider"> : </span></li> <li><a href="/collections/search.html" >Search Collections</a></li></ul></div>
+							<div style="float:right" class="back_btn"><a href="javascript:history.go(-1);"><img src="/images/interface/icons/previouspage_icon.gif" border="0" alt="Return to Previous Page"/></a></div>
+					<form method="get" action="/collections/results.html"><p></p><p>Results : <b>28294</b> matches found in Collections Online.</p><strong>Artist/Maker's Name:</strong> Artist/maker unknown<br/><p></p><div class="row-fluid"><div class="span4"><div id="collections">Viewing [ 24139-24192 of 28294]</div></div><div class="span8"><div id="collections">Results Per Page: <select name="results" onChange="returnToResults()" class="f_dr"><option value="18">18</option><option value="36">36</option><option value="54" selected>54</option></select></div></div><p></p></div>		<table border="0" cellpadding="2" cellspacing="2" width="100%">
+	<tr>
+		<td>		&nbsp
+		</td>
+		<td align="right"><a href="/collections/search.html">Search Again >></a></td>
+	</tr>
+</table>
+		<br/><div align="center"><a href="javascript:setPage(431)"><< Prev 10</a> &nbsp; <a href="javascript:setPage(1)">1</a> ... <div id="num441" style="padding: 5px 2px 5px 2px; display:inline;"><a href="javascript:setPage(441)">441</a></div><div id="num442" style="padding: 5px 2px 5px 2px; display:inline;"><a href="javascript:setPage(442)">442</a></div><div id="num443" style="padding: 5px 2px 5px 2px; display:inline;"><a href="javascript:setPage(443)">443</a></div><div id="num444" style="padding: 5px 2px 5px 2px; display:inline;"><a href="javascript:setPage(444)">444</a></div><div id="num445" style="padding: 5px 2px 5px 2px; display:inline;"><a href="javascript:setPage(445)">445</a></div><div id="num446" style="padding: 5px 2px 5px 2px; display:inline;"><a href="javascript:setPage(446)">446</a></div><div id="num447" style="padding: 5px 2px 5px 2px; display:inline;"><a href="javascript:setPage(447)">447</a></div><div id="num448" style="padding: 5px 2px 5px 2px; display:inline;">448</div><div id="num449" style="padding: 5px 2px 5px 2px; display:inline;"><a href="javascript:setPage(449)">449</a></div><div id="num450" style="padding: 5px 2px 5px 2px; display:inline;"><a href="javascript:setPage(450)">450</a></div> ... <a href="javascript:setPage(524)">524</a> &nbsp; <a href="javascript:setPage(451)">Next 10 >></a></div>
+<p></p><div class="row-fluid"><div class="span4">
+			<div id="permColection"><a class="thumbnailTMS"  href="/collections/permanent/159284.html?mulR=1815481773|24139"><div class="center-cropped"
+           style="background-image: url('/images/cad/mediaDecks/1928-66-78,79,81,82-ov.jpg'); background-repeat:no-repeat;
+      background-size:cover; background-position: 50% 20%;"></div></a>
+      			<div class="text"><a href="/collections/permanent/159284.html?mulR=1815481773|24139">Tile Panel: Flowers and Dragonfly</a><br/>Dutch</div></div></div><div class="span4">
+			<div id="permColection"><a class="thumbnailTMS"  href="/collections/permanent/153002.html?mulR=1815481773|24140"><div class="center-cropped"
+           style="background-image: url('/images/cad/mediaDecks/1928-66-80,83-ov.jpg'); background-repeat:no-repeat;
+      background-size:cover; background-position: 50% 20%;"></div></a>
+      			<div class="text"><a href="/collections/permanent/153002.html?mulR=1815481773|24140">Tile Panel: Flowers in Landscapes</a><br/>Dutch</div></div></div><div class="span4">
+			<div id="permColection"><a class="thumbnailTMS"  href="/collections/permanent/204582.html?mulR=1815481773|24141"><div class="center-cropped"
+           style="background-image: url('/images/cad/mediaDecks/1979-50-263--266-ov.jpg'); background-repeat:no-repeat;
+      background-size:cover; background-position: 50% 20%;"></div></a>
+      			<div class="text"><a href="/collections/permanent/204582.html?mulR=1815481773|24141">Tile Panel: Flowers in Ovals</a><br/>Dutch</div></div></div></div><div class="row-fluid"><div class="span4">
+			<div id="permColection"><a class="thumbnailTMS"  href="/collections/permanent/204342.html?mulR=1815481773|24142"><div class="center-cropped"
+           style="background-image: url('/images/cad/mediaDecks/1983-101-113--116-ov.jpg'); background-repeat:no-repeat;
+      background-size:cover; background-position: 50% 20%;"></div></a>
+      			<div class="text"><a href="/collections/permanent/204342.html?mulR=1815481773|24142">Tile Panel: Flowers in Scalloped Roundels</a><br/>Dutch</div></div></div><div class="span4">
+			<div id="permColection"><a class="thumbnailTMS"  href="/collections/permanent/205119.html?mulR=1815481773|24143"><div class="center-cropped"
+           style="background-image: url('/images/cad/mediaDecks/1979-50-689,690-ov.jpg'); background-repeat:no-repeat;
+      background-size:cover; background-position: 50% 20%;"></div></a>
+      			<div class="text"><a href="/collections/permanent/205119.html?mulR=1815481773|24143">Tile Panel: Fortuna and Venus</a><br/>Dutch</div></div></div><div class="span4">
+			<div id="permColection"><a class="thumbnailTMS"  href="/collections/permanent/153006.html?mulR=1815481773|24144"><div class="center-cropped"
+           style="background-image: url('/images/cad/mediaDecks/1979-50-609--612-ov.jpg'); background-repeat:no-repeat;
+      background-size:cover; background-position: 50% 20%;"></div></a>
+      			<div class="text"><a href="/collections/permanent/153006.html?mulR=1815481773|24144">Tile Panel: Fruit</a><br/>Dutch</div></div></div></div><div class="row-fluid"><div class="span4">
+			<div id="permColection"><a class="thumbnailTMS"  href="/collections/permanent/204860.html?mulR=1815481773|24145"><div class="center-cropped"
+           style="background-image: url('/images/cad/mediaDecks/1979-50-614--629-ov.jpg'); background-repeat:no-repeat;
+      background-size:cover; background-position: 50% 20%;"></div></a>
+      			<div class="text"><a href="/collections/permanent/204860.html?mulR=1815481773|24145">Tile Panel: Fruit and Vegetables</a><br/>Dutch</div></div></div><div class="span4">
+			<div id="permColection"><a class="thumbnailTMS"  href="/collections/permanent/204863.html?mulR=1815481773|24146"><div class="center-cropped"
+           style="background-image: url('/images/cad/mediaDecks/1979-50-577--592-ov.jpg'); background-repeat:no-repeat;
+      background-size:cover; background-position: 50% 20%;"></div></a>
+      			<div class="text"><a href="/collections/permanent/204863.html?mulR=1815481773|24146">Tile Panel: Fruit Clusters</a><br/>Dutch</div></div></div><div class="span4">
+			<div id="permColection"><a class="thumbnailTMS"  href="/collections/permanent/204859.html?mulR=1815481773|24147"><div class="center-cropped"
+           style="background-image: url('/images/cad/mediaDecks/1930-10-47(74);1979-50-594,595-ov.jpg'); background-repeat:no-repeat;
+      background-size:cover; background-position: 50% 20%;"></div></a>
+      			<div class="text"><a href="/collections/permanent/204859.html?mulR=1815481773|24147">Tile Panel: Fruit Compote</a><br/>Dutch</div></div></div></div><div class="row-fluid"><div class="span4">
+			<div id="permColection"><a class="thumbnailTMS"  href="/collections/permanent/203301.html?mulR=1815481773|24148"><div class="center-cropped"
+           style="background-image: url('/images/cad/mediaDecks/1930-10-48(25,26);1979-50-601--604-ov.jpg'); background-repeat:no-repeat;
+      background-size:cover; background-position: 50% 20%;"></div></a>
+      			<div class="text"><a href="/collections/permanent/203301.html?mulR=1815481773|24148">Tile Panel: Fruit Compotes</a><br/>Dutch</div></div></div><div class="span4">
+			<div id="permColection"><a class="thumbnailTMS"  href="/collections/permanent/203321.html?mulR=1815481773|24149"><div class="center-cropped"
+           style="background-image: url('/images/cad/mediaDecks/1930-10-48(27,28);1979-50-597--600-ov.jpg'); background-repeat:no-repeat;
+      background-size:cover; background-position: 50% 20%;"></div></a>
+      			<div class="text"><a href="/collections/permanent/203321.html?mulR=1815481773|24149">Tile Panel: Fruit Compotes</a><br/>Dutch</div></div></div><div class="span4">
+			<div id="permColection"><a class="thumbnailTMS"  href="/collections/permanent/204858.html?mulR=1815481773|24150"><div class="center-cropped"
+           style="background-image: url('/images/cad/mediaDecks/1979-50-605--608-ov.jpg'); background-repeat:no-repeat;
+      background-size:cover; background-position: 50% 20%;"></div></a>
+      			<div class="text"><a href="/collections/permanent/204858.html?mulR=1815481773|24150">Tile Panel: Fruit Compotes</a><br/>Dutch</div></div></div></div><div class="row-fluid"><div class="span4">
+			<div id="permColection"><a class="thumbnailTMS"  href="/collections/permanent/159740.html?mulR=1815481773|24151"><div class="center-cropped"
+           style="background-image: url('/images/cad/mediaDecks/1928-66-131--138deriv-ov.jpg'); background-repeat:no-repeat;
+      background-size:cover; background-position: 50% 20%;"></div></a>
+      			<div class="text"><a href="/collections/permanent/159740.html?mulR=1815481773|24151">Tile Panel: Geometric Designs</a><br/>Dutch</div></div></div><div class="span4">
+			<div id="permColection"><a class="thumbnailTMS"  href="/collections/permanent/204187.html?mulR=1815481773|24152"><div class="center-cropped"
+           style="background-image: url('/images/cad/mediaDecks/1979-50-544--547-ov.jpg'); background-repeat:no-repeat;
+      background-size:cover; background-position: 50% 20%;"></div></a>
+      			<div class="text"><a href="/collections/permanent/204187.html?mulR=1815481773|24152">Tile Panel: Grapes and Pomagrantes</a><br/>Dutch</div></div></div><div class="span4">
+			<div id="permColection"><a class="thumbnailTMS"  href="/collections/permanent/204172.html?mulR=1815481773|24153"><div class="center-cropped"
+           style="background-image: url('/images/cad/mediaDecks/1979-50-540-543,556-559-ov.jpg'); background-repeat:no-repeat;
+      background-size:cover; background-position: 50% 20%;"></div></a>
+      			<div class="text"><a href="/collections/permanent/204172.html?mulR=1815481773|24153">Tile Panel: Grapes and Pomegranates</a><br/>Dutch</div></div></div></div><div class="row-fluid"><div class="span4">
+			<div id="permColection"><a class="thumbnailTMS"  href="/collections/permanent/204186.html?mulR=1815481773|24154"><div class="center-cropped"
+           style="background-image: url('/images/cad/mediaDecks/1979-50-562,565--567,569--576-ov.jpg'); background-repeat:no-repeat;
+      background-size:cover; background-position: 50% 20%;"></div></a>
+      			<div class="text"><a href="/collections/permanent/204186.html?mulR=1815481773|24154">Tile Panel: Grapes and Pomegranates</a><br/>Dutch</div></div></div><div class="span4">
+			<div id="permColection"><a class="thumbnailTMS"  href="/collections/permanent/159752.html?mulR=1815481773|24155"><div class="center-cropped"
+           style="background-image: url('/images/cad/mediaDecks/1928-66-165--172-sl.jpg'); background-repeat:no-repeat;
+      background-size:cover; background-position: 50% 20%;"></div></a>
+      			<div class="text"><a href="/collections/permanent/159752.html?mulR=1815481773|24155">Tile Panel: Harbor Views</a><br/>Dutch</div></div></div><div class="span4">
+			<div id="permColection"><a class="thumbnailTMS"  href="/collections/permanent/203540.html?mulR=1815481773|24156"><div class="center-cropped"
+           style="background-image: url('/images/cad/mediaDecks/1979-50-133,134,145--148-ov.jpg'); background-repeat:no-repeat;
+      background-size:cover; background-position: 50% 20%;"></div></a>
+      			<div class="text"><a href="/collections/permanent/203540.html?mulR=1815481773|24156">Tile Panel: Ladies and Men</a><br/>Dutch</div></div></div></div><div class="row-fluid"><div class="span4">
+			<div id="permColection"><a class="thumbnailTMS"  href="/collections/permanent/204021.html?mulR=1815481773|24157"><div class="center-cropped"
+           style="background-image: url('/images/cad/mediaDecks/1979-50-197-198,1981-77-56-ov.jpg'); background-repeat:no-repeat;
+      background-size:cover; background-position: 50% 20%;"></div></a>
+      			<div class="text"><a href="/collections/permanent/204021.html?mulR=1815481773|24157">Tile Panel: Marksman, Musketeer, and Pikeman</a><br/>Dutch</div></div></div><div class="span4">
+			<div id="permColection"><a class="thumbnailTMS"  href="/collections/permanent/205023.html?mulR=1815481773|24158"><div class="center-cropped"
+           style="background-image: url('/images/cad/mediaDecks/1979-50-675--678.jpg'); background-repeat:no-repeat;
+      background-size:cover; background-position: 50% 20%;"></div></a>
+      			<div class="text"><a href="/collections/permanent/205023.html?mulR=1815481773|24158">Tile Panel: Men-of-War and Sloops</a><br/>Dutch</div></div></div><div class="span4">
+			<div id="permColection"><a class="thumbnailTMS"  href="/collections/permanent/120174.html?mulR=1815481773|24159"><div class="center-cropped"
+           style="background-image: url('/images/cad/mediaDecks/1979-50-683--686,1979-50-183--194-ov.jpg'); background-repeat:no-repeat;
+      background-size:cover; background-position: 50% 20%;"></div></a>
+      			<div class="text"><a href="/collections/permanent/120174.html?mulR=1815481773|24159">Tile Panel: Men-of-War, Frigates, Flutes, and a Herring Buss</a><br/>Dutch</div></div></div></div><div class="row-fluid"><div class="span4">
+			<div id="permColection"><a class="thumbnailTMS"  href="/collections/permanent/205118.html?mulR=1815481773|24160"><div class="center-cropped"
+           style="background-image: url('/images/cad/mediaDecks/1979-50-687,688-ov.jpg'); background-repeat:no-repeat;
+      background-size:cover; background-position: 50% 20%;"></div></a>
+      			<div class="text"><a href="/collections/permanent/205118.html?mulR=1815481773|24160">Tile Panel: Merman and Mermaid</a><br/>Dutch</div></div></div><div class="span4">
+			<div id="permColection"><a class="thumbnailTMS"  href="/collections/permanent/205115.html?mulR=1815481773|24161"><div class="center-cropped"
+           style="background-image: url('/images/cad/mediaDecks/1979-50-699,701-ov.jpg'); background-repeat:no-repeat;
+      background-size:cover; background-position: 50% 20%;"></div></a>
+      			<div class="text"><a href="/collections/permanent/205115.html?mulR=1815481773|24161">Tile Panel: Merman and Venus</a><br/>Dutch</div></div></div><div class="span4">
+			<div id="permColection"><a class="thumbnailTMS"  href="/collections/permanent/204024.html?mulR=1815481773|24162"><div class="center-cropped"
+           style="background-image: url('/images/cad/mediaDecks/1979-50-199,200,202,210-ov.jpg'); background-repeat:no-repeat;
+      background-size:cover; background-position: 50% 20%;"></div></a>
+      			<div class="text"><a href="/collections/permanent/204024.html?mulR=1815481773|24162">Tile Panel: Musketeers and Pikemen</a><br/>Dutch</div></div></div></div><div class="row-fluid"><div class="span4">
+			<div id="permColection"><a class="thumbnailTMS"  href="/collections/permanent/170572.html?mulR=1815481773|24163"><div class="center-cropped"
+           style="background-image: url('/images/cad/mediaDecks/1979-50-375--386,419--434-ov.jpg'); background-repeat:no-repeat;
+      background-size:cover; background-position: 50% 20%;"></div></a>
+      			<div class="text"><a href="/collections/permanent/170572.html?mulR=1815481773|24163">Tile Panel: Ornamental Flower Vases with Rosettes</a><br/>Dutch</div></div></div><div class="span4">
+			<div id="permColection"><a class="thumbnailTMS"  href="/collections/permanent/76163.html?mulR=1815481773|24164"><div class="center-cropped"
+           style="background-image: url('/images/cad/mediaDecks/1983-101-126--129-ov.jpg'); background-repeat:no-repeat;
+      background-size:cover; background-position: 50% 20%;"></div></a>
+      			<div class="text"><a href="/collections/permanent/76163.html?mulR=1815481773|24164">Tile Panel: Ornamental Fruit in Quatrefoil</a><br/>Dutch</div></div></div><div class="span4">
+			<div id="permColection"><a class="thumbnailTMS"  href="/collections/permanent/138731.html?mulR=1815481773|24165"><div class="center-cropped"
+           style="background-image: url('/images/cad/mediaDecks/1930-10-48(41)--1979-50-498-ov.jpg'); background-repeat:no-repeat;
+      background-size:cover; background-position: 50% 20%;"></div></a>
+      			<div class="text"><a href="/collections/permanent/138731.html?mulR=1815481773|24165">Tile Panel: Ornamental Fruit in Quatrefoils</a><br/>Dutch</div></div></div></div><div class="row-fluid"><div class="span4">
+			<div id="permColection"><a class="thumbnailTMS"  href="/collections/permanent/148043.html?mulR=1815481773|24166"><div class="center-cropped"
+           style="background-image: url('/images/cad/mediaDecks/1983-101-130--154-ov.jpg'); background-repeat:no-repeat;
+      background-size:cover; background-position: 50% 20%;"></div></a>
+      			<div class="text"><a href="/collections/permanent/148043.html?mulR=1815481773|24166">Tile Panel: Ornamental Landscapes, Fruit, and Flowers in Aigrette Wreaths</a><br/>Dutch</div></div></div><div class="span4">
+			<div id="permColection"><a class="thumbnailTMS"  href="/collections/permanent/151344.html?mulR=1815481773|24167"><div class="center-cropped"
+           style="background-image: url('/images/cad/mediaDecks/1983-101-21--24-ov.jpg'); background-repeat:no-repeat;
+      background-size:cover; background-position: 50% 20%;"></div></a>
+      			<div class="text"><a href="/collections/permanent/151344.html?mulR=1815481773|24167">Tile Panel: Parrots and Roosters</a><br/>Dutch</div></div></div><div class="span4">
+			<div id="permColection"><a class="thumbnailTMS"  href="/collections/permanent/204994.html?mulR=1815481773|24168"><div class="center-cropped"
+           style="background-image: url('/images/cad/mediaDecks/1981-77-38,39-ov.jpg'); background-repeat:no-repeat;
+      background-size:cover; background-position: 50% 20%;"></div></a>
+      			<div class="text"><a href="/collections/permanent/204994.html?mulR=1815481773|24168">Tile Panel: Pikeman and Musketeer</a><br/>Dutch</div></div></div></div><div class="row-fluid"><div class="span4">
+			<div id="permColection"><a class="thumbnailTMS"  href="/collections/permanent/161743.html?mulR=1815481773|24169"><div class="center-cropped"
+           style="background-image: url('/images/cad/mediaDecks/1930-10-47(10);1979-50-188--209-ov.jpg'); background-repeat:no-repeat;
+      background-size:cover; background-position: 50% 20%;"></div></a>
+      			<div class="text"><a href="/collections/permanent/161743.html?mulR=1815481773|24169">Tile Panel: Pikemen and Musketeers</a><br/>Dutch</div></div></div><div class="span4">
+			<div id="permColection"><a class="thumbnailTMS"  href="/collections/permanent/203994.html?mulR=1815481773|24170"><div class="center-cropped"
+           style="background-image: url('/images/cad/mediaDecks/1979-50-183--186-ov.jpg'); background-repeat:no-repeat;
+      background-size:cover; background-position: 50% 20%;"></div></a>
+      			<div class="text"><a href="/collections/permanent/203994.html?mulR=1815481773|24170">Tile Panel: Pikemen and Musketeers</a><br/>Dutch</div></div></div><div class="span4">
+			<div id="permColection"><a class="thumbnailTMS"  href="/collections/permanent/205002.html?mulR=1815481773|24171"><div class="center-cropped"
+           style="background-image: url('/images/cad/mediaDecks/1981-77-43--50,52--55,57,58-ov.jpg'); background-repeat:no-repeat;
+      background-size:cover; background-position: 50% 20%;"></div></a>
+      			<div class="text"><a href="/collections/permanent/205002.html?mulR=1815481773|24171">Tile Panel: Pikemen and Musketeers</a><br/>Dutch</div></div></div></div><div class="row-fluid"><div class="span4">
+			<div id="permColection"><a class="thumbnailTMS"  href="/collections/permanent/204010.html?mulR=1815481773|24172"><div class="center-cropped"
+           style="background-image: url('/images/cad/mediaDecks/1979-50-193--196-ov.jpg'); background-repeat:no-repeat;
+      background-size:cover; background-position: 50% 20%;"></div></a>
+      			<div class="text"><a href="/collections/permanent/204010.html?mulR=1815481773|24172">Tile Panel: Pikemen and Saracen Bowman</a><br/>Dutch</div></div></div><div class="span4">
+			<div id="permColection"><a class="thumbnailTMS"  href="/collections/permanent/205070.html?mulR=1815481773|24173"><div class="center-cropped"
+           style="background-image: url('/images/cad/mediaDecks/1979-50-679--682-ov.jpg'); background-repeat:no-repeat;
+      background-size:cover; background-position: 50% 20%;"></div></a>
+      			<div class="text"><a href="/collections/permanent/205070.html?mulR=1815481773|24173">Tile Panel: Pinks</a><br/>Dutch</div></div></div><div class="span4">
+			<div id="permColection"><a class="thumbnailTMS"  href="/collections/permanent/205141.html?mulR=1815481773|24174"><div class="center-cropped"
+           style="background-image: url('/images/cad/mediaDecks/1979-50-818--821-ov.jpg'); background-repeat:no-repeat;
+      background-size:cover; background-position: 50% 20%;"></div></a>
+      			<div class="text"><a href="/collections/permanent/205141.html?mulR=1815481773|24174">Tile Panel: Plant Forms and Chinese Scroll</a><br/>Dutch</div></div></div></div><div class="row-fluid"><div class="span4">
+			<div id="permColection"><a class="thumbnailTMS"  href="/collections/permanent/204184.html?mulR=1815481773|24175"><div class="center-cropped"
+           style="background-image: url('/images/cad/mediaDecks/1979-50-532--535-ov.jpg'); background-repeat:no-repeat;
+      background-size:cover; background-position: 50% 20%;"></div></a>
+      			<div class="text"><a href="/collections/permanent/204184.html?mulR=1815481773|24175">Tile Panel: Pomegranates</a><br/>Dutch</div></div></div><div class="span4">
+			<div id="permColection"><a class="thumbnailTMS"  href="/collections/permanent/76103.html?mulR=1815481773|24176"><div class="center-cropped"
+           style="background-image: url('/images/cad/mediaDecks/1983-101-104--112.jpg'); background-repeat:no-repeat;
+      background-size:cover; background-position: 50% 20%;"></div></a>
+      			<div class="text"><a href="/collections/permanent/76103.html?mulR=1815481773|24176">Tile Panel: Roman Soldiers and Saracen Bowmen</a><br/>Dutch</div></div></div><div class="span4">
+			<div id="permColection"><a class="thumbnailTMS"  href="/collections/permanent/205066.html?mulR=1815481773|24177"><div class="center-cropped"
+           style="background-image: url('/images/cad/mediaDecks/1981-77-1--4,29--32.jpg'); background-repeat:no-repeat;
+      background-size:cover; background-position: 50% 20%;"></div></a>
+      			<div class="text"><a href="/collections/permanent/205066.html?mulR=1815481773|24177">Tile Panel: Sailing Ships</a><br/>Dutch</div></div></div></div><div class="row-fluid"><div class="span4">
+			<div id="permColection"><a class="thumbnailTMS"  href="/collections/permanent/203504.html?mulR=1815481773|24178"><div class="center-cropped"
+           style="background-image: url('/images/cad/mediaDecks/1979-50-114--172-ov.jpg'); background-repeat:no-repeat;
+      background-size:cover; background-position: 50% 20%;"></div></a>
+      			<div class="text"><a href="/collections/permanent/203504.html?mulR=1815481773|24178">Tile Panel: Scenes from Daily Life</a><br/>Dutch</div></div></div><div class="span4">
+			<div id="permColection"><a class="thumbnailTMS"  href="/collections/permanent/83655.html?mulR=1815481773|24179"><div class="center-cropped"
+           style="background-image: url('/images/cad/mediaDecks/1987-72-2a--p-ov.jpg'); background-repeat:no-repeat;
+      background-size:cover; background-position: 50% 20%;"></div></a>
+      			<div class="text"><a href="/collections/permanent/83655.html?mulR=1815481773|24179">Tile Panel: Scenes from the Old and New Testament</a><br/>Dutch</div></div></div><div class="span4">
+			<div id="permColection"><a class="thumbnailTMS"  href="/collections/permanent/205122.html?mulR=1815481773|24180"><div class="center-cropped"
+           style="background-image: url('/images/cad/mediaDecks/1981-77-5--8-ov.jpg'); background-repeat:no-repeat;
+      background-size:cover; background-position: 50% 20%;"></div></a>
+      			<div class="text"><a href="/collections/permanent/205122.html?mulR=1815481773|24180">Tile Panel: Sea Creatures</a><br/>Dutch</div></div></div></div><div class="row-fluid"><div class="span4">
+			<div id="permColection"><a class="thumbnailTMS"  href="/collections/permanent/205071.html?mulR=1815481773|24181"><div class="center-cropped"
+           style="background-image: url('/images/cad/mediaDecks/1983-101-180--182-ov.jpg'); background-repeat:no-repeat;
+      background-size:cover; background-position: 50% 20%;"></div></a>
+      			<div class="text"><a href="/collections/permanent/205071.html?mulR=1815481773|24181">Tile Panel: Sea Creatures</a><br/>Dutch</div></div></div><div class="span4">
+			<div id="permColection"><a class="thumbnailTMS"  href="/collections/permanent/205116.html?mulR=1815481773|24182"><div class="center-cropped"
+           style="background-image: url('/images/cad/mediaDecks/1979-50-691--694-ov.jpg'); background-repeat:no-repeat;
+      background-size:cover; background-position: 50% 20%;"></div></a>
+      			<div class="text"><a href="/collections/permanent/205116.html?mulR=1815481773|24182">Tile Panel: Sea Creatures</a><br/>Dutch</div></div></div><div class="span4">
+			<div id="permColection"><a class="thumbnailTMS"  href="/collections/permanent/205120.html?mulR=1815481773|24183"><div class="center-cropped"
+           style="background-image: url('/images/cad/mediaDecks/1979-50-695--698,703--706-ov.jpg'); background-repeat:no-repeat;
+      background-size:cover; background-position: 50% 20%;"></div></a>
+      			<div class="text"><a href="/collections/permanent/205120.html?mulR=1815481773|24183">Tile Panel: Sea Creatures</a><br/>Dutch</div></div></div></div><div class="row-fluid"><div class="span4">
+			<div id="permColection"><a class="thumbnailTMS"  href="/collections/permanent/205121.html?mulR=1815481773|24184"><div class="center-cropped"
+           style="background-image: url('/images/cad/mediaDecks/1983-101-174--179-ov.jpg'); background-repeat:no-repeat;
+      background-size:cover; background-position: 50% 20%;"></div></a>
+      			<div class="text"><a href="/collections/permanent/205121.html?mulR=1815481773|24184">Tile Panel: Sea Creatures</a><br/>Dutch</div></div></div><div class="span4">
+			<div id="permColection"><a class="thumbnailTMS"  href="/collections/permanent/83654.html?mulR=1815481773|24185"><div class="center-cropped"
+           style="background-image: url('/images/cad/mediaDecks/1987-72-1a--p.jpg'); background-repeat:no-repeat;
+      background-size:cover; background-position: 50% 20%;"></div></a>
+      			<div class="text"><a href="/collections/permanent/83654.html?mulR=1815481773|24185">Tile Panel: Shepherds and Shepherdesses</a><br/>Dutch</div></div></div><div class="span4">
+			<div id="permColection"><a class="thumbnailTMS"  href="/collections/permanent/159719.html?mulR=1815481773|24186"><div class="center-cropped"
+           style="background-image: url('/images/cad/mediaDecks/1928-66-127,130-sl-CX.jpg'); background-repeat:no-repeat;
+      background-size:cover; background-position: 50% 20%;"></div></a>
+      			<div class="text"><a href="/collections/permanent/159719.html?mulR=1815481773|24186">Tile Panel: Shepherds and Shepherdesses in Landscapes</a><br/>Dutch</div></div></div></div><div class="row-fluid"><div class="span4">
+			<div id="permColection"><a class="thumbnailTMS"  href="/collections/permanent/204025.html?mulR=1815481773|24187"><div class="center-cropped"
+           style="background-image: url('/images/cad/mediaDecks/1979-50-213--216-ov.jpg'); background-repeat:no-repeat;
+      background-size:cover; background-position: 50% 20%;"></div></a>
+      			<div class="text"><a href="/collections/permanent/204025.html?mulR=1815481773|24187">Tile Panel: Shepherds and Shepherdesses in Landscapes</a><br/>Dutch</div></div></div><div class="span4">
+			<div id="permColection"><a class="thumbnailTMS"  href="/collections/permanent/204029.html?mulR=1815481773|24188"><div class="center-cropped"
+           style="background-image: url('/images/cad/mediaDecks/1979-50-217--220-ov.jpg'); background-repeat:no-repeat;
+      background-size:cover; background-position: 50% 20%;"></div></a>
+      			<div class="text"><a href="/collections/permanent/204029.html?mulR=1815481773|24188">Tile Panel: Shepherds and Shepherdesses in Landscapes</a><br/>Dutch</div></div></div><div class="span4">
+			<div id="permColection"><a class="thumbnailTMS"  href="/collections/permanent/204991.html?mulR=1815481773|24189"><div class="center-cropped"
+           style="background-image: url('/images/cad/mediaDecks/1979-50-644--659-ov.jpg'); background-repeat:no-repeat;
+      background-size:cover; background-position: 50% 20%;"></div></a>
+      			<div class="text"><a href="/collections/permanent/204991.html?mulR=1815481773|24189">Tile Panel: Shepherds and Shepherdesses in Landscapes</a><br/>Dutch</div></div></div></div><div class="row-fluid"><div class="span4">
+			<div id="permColection"><a class="thumbnailTMS"  href="/collections/permanent/204992.html?mulR=1815481773|24190"><div class="center-cropped"
+           style="background-image: url('/images/cad/mediaDecks/1981-77-40,41-ov.jpg'); background-repeat:no-repeat;
+      background-size:cover; background-position: 50% 20%;"></div></a>
+      			<div class="text"><a href="/collections/permanent/204992.html?mulR=1815481773|24190">Tile Panel: Shepherds in Landscapes</a><br/>Dutch</div></div></div><div class="span4">
+			<div id="permColection"><a class="thumbnailTMS"  href="/collections/permanent/205000.html?mulR=1815481773|24191"><div class="center-cropped"
+           style="background-image: url('/images/cad/mediaDecks/1983-101-100--103-ov.jpg'); background-repeat:no-repeat;
+      background-size:cover; background-position: 50% 20%;"></div></a>
+      			<div class="text"><a href="/collections/permanent/205000.html?mulR=1815481773|24191">Tile Panel: Soldiers</a><br/>Dutch</div></div></div><div class="span4">
+			<div id="permColection"><a class="thumbnailTMS"  href="/collections/permanent/161844.html?mulR=1815481773|24192"><div class="center-cropped"
+           style="background-image: url('/images/cad/mediaDecks/1930-10-48(34)--1979-50-519-ov.jpg'); background-repeat:no-repeat;
+      background-size:cover; background-position: 50% 20%;"></div></a>
+      			<div class="text"><a href="/collections/permanent/161844.html?mulR=1815481773|24192">Tile Panel: Star Tulips</a><br/>Dutch</div></div></div></div><p></p><br/><div align="center"><a href="javascript:setPage(431)"><< Prev 10</a> &nbsp; <a href="javascript:setPage(1)">1</a> ... <div id="num441" style="padding: 5px 2px 5px 2px; display:inline;"><a href="javascript:setPage(441)">441</a></div><div id="num442" style="padding: 5px 2px 5px 2px; display:inline;"><a href="javascript:setPage(442)">442</a></div><div id="num443" style="padding: 5px 2px 5px 2px; display:inline;"><a href="javascript:setPage(443)">443</a></div><div id="num444" style="padding: 5px 2px 5px 2px; display:inline;"><a href="javascript:setPage(444)">444</a></div><div id="num445" style="padding: 5px 2px 5px 2px; display:inline;"><a href="javascript:setPage(445)">445</a></div><div id="num446" style="padding: 5px 2px 5px 2px; display:inline;"><a href="javascript:setPage(446)">446</a></div><div id="num447" style="padding: 5px 2px 5px 2px; display:inline;"><a href="javascript:setPage(447)">447</a></div><div id="num448" style="padding: 5px 2px 5px 2px; display:inline;">448</div><div id="num449" style="padding: 5px 2px 5px 2px; display:inline;"><a href="javascript:setPage(449)">449</a></div><div id="num450" style="padding: 5px 2px 5px 2px; display:inline;"><a href="javascript:setPage(450)">450</a></div> ... <a href="javascript:setPage(524)">524</a> &nbsp; <a href="javascript:setPage(451)">Next 10 >></a></div>
+	<input type="hidden" name="searchTxt" value=""/>
+	<input type="hidden" name="searchNameID" value="13023"/>
+	<input type="hidden" name="searchClassID" value=""/>
+	<input type="hidden" name="provenance" value="0"/>
+	<input type="hidden" name="audio" value="0"/>
+    <input type="hidden" name="onView" value="0"/>
+	<input type="hidden" name="searchOrigin" value=""/>
+    <input type="hidden" name="searchDeptID" value=""/>
+	<input type="hidden" name="page" value="448"/>
+	<input type="hidden" name="action" value="post"/>
+</form>
+
+<table border="0" cellpadding="2" cellspacing="2" width="100%">
+	<tr>
+		<td>		&nbsp
+		</td>
+		<td align="right"><a href="/collections/search.html">Search Again >></a></td>
+	</tr>
+</table>
+
+			
+
+						<div class="cleaner"></div>
+
+
+						<div align="right" class="back_btn"><p><a href="javascript:history.go(-1);"><img src="/images/interface/icons/previouspage.gif" border="0" alt="Return to Previous Page"/></a></p></div>
+
+
+			
+
+
+			
+</div><!--/span-->
+
+<div id="sidebar" class="span3">
+
+        <a name="jumptoSideNav"></a> <!-- subNav jump for Accessibility -->
+
+				<div class="well sidebar-nav  visible-desktop">
+ <div style="padding-left:14px; padding-bottom:10px;"><a href="/" class="sNavLink">Home</a></div>
+                <ul class="nav nav-list">
+                 
+                  
+                  <li class="sideNav-header">Collections</li></ul><div id='subNav_line'>&nbsp;</div><ul class="nav nav-list"> <li class="active"><a href="/collections/search.html" class="sNavLinkactive">Search Collections</a></li><ul class="nav nav-list"></ul><li class=""><a href="/acquisitions/" class="sNavLink">New Acquisitions</a></li><li class=""><a href="/explore/" class="sNavLink">Explore Collections</a></li><li class=""><a href="http://www.philamuseum.org/collections/634-549.html" class="sNavLink">South Asian Art</a></li><li class=""><a href="/collections/audiotours.html" class="sNavLink">Audio Tours</a></li><li class=""><a href="http://www.philamuseum.org/collections/608-510.html" class="sNavLink">ART 24/7</a></li>                </ul>
+                <!-- END SUBGLOBALS AND SUBNAV -->
+
+                
+                <div id="subNav_line">&nbsp;</div>
+                <!-- RELATED LINKS -->
+                <div id="relatedNav">
+
+<div class="relatedNavLink"><a href="https://www.philamuseum.org/giving/441-146-81.html#art247" class="relatedNavLink">Support ART 24/7</a></div><div class="relatedNavLink"><a href="https://www.philamuseum.org/publications/2.html" class="relatedNavLink">Guides to the Museum &amp; its Collections</a></div><div id="relatedNav_line">&nbsp;</div><div class="relatedNavLink"></div><div style="padding-top:4px;"></div><div style="text-align:center"><a data-accesso-keyword="ADMISSION" onClick=ga('send','event', 'GA_Button','Click_GA_Button_side','Click_GA_Button');" target="_blank" class="btn btn-warning">Buy Now & Save</a></div><div id="relatedNav_line">&nbsp;</div><div class='relNav_promo'><a href="https://store.philamuseum.org/" onMouseDown="ga('send','event', 'RelNav_promo','Click_RelNav_promo','rnp_ShopEarlyNov');"  class="darken"  ><img name="" src="/promo/relNav/ShopEarlyNov_rn.jpg" onload="ga('send', 'event', 'RelNav_promo','Impression_RelNav_promo','rnp_ShopEarlyNov');" border='0'></a></div><div id="relatedNav_line">&nbsp;</div></div><div class="relatedNavLink" style="padding-top:10px;"><a href="javascript:window.print();"><img src="https://www.philamuseum.org/images/interface/icons/print_txt.gif" border="0" style="padding-right:4px; alt="Print this Page"/></a></div>
+</div>
+
+
+
+
+
+
+
+</div><!--/.well -->
+              </div>
+
+
+              </div>
+
+              
+ <div class="row-fluid"><!--row-->
+ 	 <div class="span12">
+			 <hr>
+             </div>
+             </div>
+           <div class="row-fluid visible-desktop visible-tablet"><!--row-->
+
+                 <div class="span4">
+                 <div class="footerLinks">
+                 <a href="https://www.philamuseum.org/copyright.html">&copy; 2018 Philadelphia Museum of Art</a></div>
+
+
+               </div>
+                  <div class="span8" style="text-align:right;">
+
+                	<div class="footerLinks">
+                 	 <a href="https://www.philamuseum.org/search.html">Search</a> | <a href="https://www.philamuseum.org/shop/" target="_blank">Shop</a> | <a href="https://www.philamuseum.org/webpolicies.html">Privacy &amp; Security</a> | <a href="https://www.philamuseum.org/contacts/">Contacts</a> | <a href="https://www.philamuseum.org/sitemap.html">Sitemap</a>
+                     </div>
+     			 </div>
+
+     </div>
+
+
+<div class="visible-phone"><!--row-->
+
+
+
+
+                <div class="span12" style="text-align:center;">
+                <div class="footerLinks">
+                 <a href="https://www.philamuseum.org/copyright.html">&copy; 2018 Philadelphia Museum of Art</a>
+
+
+                 <p></p>
+                 	 <a href="https://www.philamuseum.org/search.html">Search</a> | <a href="https://www.philamuseum.org/sitemap.html">Sitemap</a> <!-- | <a href="/myMuseum">My Museum</a> -->| <a href="https://www.philamuseum.org/webpolicies.html">Privacy &amp; Security</a> | <a href="https://www.philamuseum.org/contacts/">Contacts</a>
+                     </div>
+
+
+                                      <p></p>
+
+
+
+ </div>
+
+     </div>
+
+
+
+
+
+
+
+
+</div>
+<div class="row-fluid visible-phone" style="text-align:center; padding-top:10px;">
+
+<a href="https://twitter.com/philamuseum"><img src="/images/twitter_icon.gif" width="30" style="opacity:0.4;
+filter:alpha(opacity=10);"></a>
+<a href="https://www.facebook.com/philamuseum"><img src="/images/facebook_icon.gif" width="30" style="opacity:0.4;
+filter:alpha(opacity=10);"></a>
+<a href="http://philamuseum.tumblr.com/"><img src="/images/tumblr_icon.gif" width="30" style="opacity:0.4;
+filter:alpha(opacity=10);"></a>
+<a href="http://instagram.com/philamuseum"><img src="/images/instagram_icon.gif" width="30" style="opacity:0.4;
+filter:alpha(opacity=10);"></a>
+<a href="https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewArtistSeeAll?cc=us&dkId=4&ids=185692647&section=0"><img src="/images/iTunes_icon.gif" width="30" style="opacity:0.4;
+filter:alpha(opacity=10);"></a>
+</div>
+ </div>
+    </body>
+</html>
+
+
+<!-- nrd -->
+
+<script src="/includes/js_includes/vendor/jquery-1.9.0.js"></script>
+<script src="/includes/js_includes/vendor/bootstrap.js"></script>
+<script src="/includes/js_includes/vendor/modernizr-2.6.2-respond-1.1.0.min.js"></script>
+
+
+ <script src="/includes/js_includes/plugins.js"></script>
+ <script src="/includes/js_includes/main.js"></script>
+
+
+
+<!-- Effects  -->
+<script src="/includes/js_includes/newEffects.js"></script>
+
+
+
+
+
+<script>
+  $(document).ready(function(){
+
+  $('.carousel').carousel({
+	         interval: 6000
+  , pause: 'false'
+
+    });
+
+    function tmsSlide() {
+   $('#tmsCarousel').carousel('pause');
+   $('#tmsCarousel_phone').carousel('pause');
+   }
+
+
+setTimeout(tmsSlide, 10);
+
+
+
+
+	var myHash = window.location.hash.substr(1);
+   //alert(myHash + "_hash");
+  if (myHash == "JoseonVideo") {
+       setTimeout(function() {catchSlideOpen("#vid");}, 800 );
+
+
+        }
+
+
+
+
+
+	});
+
+	$(function() {
+    $('[rel="dltips"]').tooltip({placement: 'bottom'});
+	$('[rel="dltipz"]').tooltip({placement: 'bottom'});
+	//$('[rel="enlargetips"]').tooltip({placement: 'bottom'});
+	//$('[rel="reducetips"]').tooltip({placement: 'bottom'});
+});
+
+
+</script>
+
+
+
+
+
+<!-- /////// Begin Store Pixels /////// -->
+
+<!-- Facebook Pixel Code -->
+
+<script>
+
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+
+document,'script','https://connect.facebook.net/en_US/fbevents.js');
+
+fbq('init', '1397289793845022');
+
+fbq('track', 'PageView');
+
+</script>
+
+<noscript><img height="1" width="1" style="display:none"
+
+src="https://www.facebook.com/tr?id=1397289793845022&ev=PageView&noscript=1"
+
+/></noscript>
+
+<!-- DO NOT MODIFY -->
+
+<!-- End Facebook Pixel Code -->
+
+
+
+<script type="text/javascript">
+
+/* <![CDATA[ */
+
+var google_conversion_id = 871691647;
+
+var google_custom_params = window.google_tag_params;
+
+var google_remarketing_only = true;
+
+/* ]]> */
+
+</script>
+
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+
+</script>
+
+<noscript>
+
+<div style="display:inline;">
+
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/871691647/?value=1&amp;guid=ON&amp;script=0"/>
+
+</div>
+
+</noscript>
+
+
+<script>(function(w,d,t,r,u){var f,n,i;w[u]=w[u]||[],f=function(){var o={ti:"5439504"};o.q=w[u],w[u]=new UET(o),w[u].push("pageLoad")},n=d.createElement(t),n.src=r,n.async=1,n.onload=n.onreadystatechange=function(){var s=this.readyState;s&&s!=="loaded"&&s!=="complete"||(f(),n.onload=n.onreadystatechange=null)},i=d.getElementsByTagName(t)[0],i.parentNode.insertBefore(n,i)})(window,document,"script","//bat.bing.com/bat.js","uetq");</script><noscript><img src="//bat.bing.com/action/0?ti=5439504&Ver=2" height="0" width="0" style="display:none; visibility: hidden;" /></noscript>
+
+
+<!-- /////// End Store Pixels /////// -->
+
+
+
+
+
+
+
+
+
+
+
+<!--BEGIN QUALTRICS SITE INTERCEPT-->
+<script type='text/javascript'>
+(function(){var g=function(e,h,f,g){
+this.get=function(a){for(var a=a+"=",c=document.cookie.split(";"),b=0,e=c.length;b<e;b++){for(var d=c[b];" "==d.charAt(0);)d=d.substring(1,d.length);if(0==d.indexOf(a))return d.substring(a.length,d.length)}return null};
+this.set=function(a,c){var b="",b=new Date;b.setTime(b.getTime()+6048E5);b="; expires="+b.toGMTString();document.cookie=a+"="+c+b+"; path=/; "};
+this.check=function(){var a=this.get(f);if(a)a=a.split(":");else if(100!=e)"v"==h&&(e=Math.random()>=e/100?0:100),a=[h,e,0],this.set(f,a.join(":"));else return!0;var c=a[1];if(100==c)return!0;switch(a[0]){case "v":return!1;case "r":return c=a[2]%Math.floor(100/c),a[2]++,this.set(f,a.join(":")),!c}return!0};
+this.go=function(){if(this.check()){var a=document.createElement("script");a.type="text/javascript";a.src=g+ "&t=" + (new Date()).getTime();document.body&&document.body.appendChild(a)}};
+this.start=function(){var a=this;window.addEventListener?window.addEventListener("load",function(){a.go()},!1):window.attachEvent&&window.attachEvent("onload",function(){a.go()})}};
+try{(new g(100,"r","QSI_S_ZN_2ccDMfGcsX43gdT","//zn2ccdmfgcsx43gdt-storyworldwide.siteintercept.qualtrics.com/WRSiteInterceptEngine/?Q_ZID=ZN_2ccDMfGcsX43gdT&Q_LOC="+encodeURIComponent(window.location.href))).start()}catch(i){}})();
+</script><div id='ZN_2ccDMfGcsX43gdT'><!--DO NOT REMOVE-CONTENTS PLACED HERE--></div>
+<!--END SITE INTERCEPT-->
+
+
+<!-- Lightbox JS/Libraries -->
+<!-- <script type="text/javascript" src="https://philamuseum.org/includes/js_includes/vendor/jquery-1.9.0.js"></script> -->
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.0.47/jquery.fancybox.min.js"></script>

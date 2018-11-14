@@ -1,7 +1,7 @@
 # Philadelphia Museum of Art Permanent Collection
 ## A comprehensive inventory of the art vaults of the PMA
 
-[[https://github.com/catalandres/PhiladelphiaMuseumOfArt/blob/master/img/PhiladephiaMuseumOfArt.jpg | alt=Philadelphia Museum of Art]]
+![Philadelphia Museum of Art](https://github.com/catalandres/PhiladelphiaMuseumOfArt/blob/master/img/PhiladephiaMuseumOfArt.jpg)
 
 ### Context
 
